@@ -1,4 +1,3 @@
-Copyright © 2019 by Wolfram Volpi, All rights reserved.\\
 This page is redirected from https://tiny.cc/wfpb-intro
 
 * Table of Contents                                           :TOC_3:
@@ -12,10 +11,9 @@ This page is redirected from https://tiny.cc/wfpb-intro
     - [[#kaiser-permanente][Kaiser Permanente]]
   - [[#wfpb-certificates][WFPB certificates]]
 - [[#an-introduction-to-whole-food][An introduction to whole food]]
-- [[#wfpb-guidelines][WFPB guidelines]]
 - [[#standard-american-diet-sad][Standard American Diet (SAD)]]
+- [[#wfpb-guidelines][WFPB guidelines]]
 - [[#getting-started-with-a-wfpb-trial][Getting started with a WFPB trial]]
-- [[#more-wfpb-resources][More WFPB resources]]
 
 * Introductions to a Whole-Food Plant-Based (WFPB) Diet
 Here is a list of introductions to the WFPB diet.
@@ -28,17 +26,17 @@ The presentation is 55 minutes, followed by an informative Q&A of 20 minutes.
 An illustrated introduction followed by pictures of a WFPB diet.
 
 [[https://www.forksoverknives.com/synopsis/][Forks Over Knives]] is a 2011 documentary film.
-This 96-minute documentary of how research scientists discovered and proved the healthiest diet for humans.
+This 96-minute documentary shows how research scientists discovered and proved the healthiest diet for humans.
 
 [[https://opmed.doximity.com/a-medical-case-for-a-whole-food-plant-based-diet-c91580875463][A Medical Case for a Whole Food, Plant-Based Diet]]\\
 A WFPB introduction written by a doctor, for doctors (11-minute read).
 
 [[https://www.youtube.com/watch?v=aSgNkhgVtks][How Not to Die - Michael Greger, M.D.]]\\
 Uprooting the Leading Causes of Death, March 12, 2016 (83-minute video).
+Dr. Greger shows screen shots of the peer-review literature as he reads from it.
 
 [[https://nutritionfacts.org/video/from-table-to-able/][Combating Disabling Diseases with Food.]]\\
 Dr. Greger recorded live at the University of Pittsburgh on July 5, 2014 (54-minute video).
-Dr. Greger shows screen shots of the peer-review literature as he reads from it:
 - 00:30 heart disease
 - 06:30 low-back pain
 - 09:10 stroke
@@ -189,19 +187,6 @@ https://www.youtube.com/watch?v=h0PF5R0ywp4
 
 https://nutritionfacts.org/video/whats-the-natural-human-diet/
 
-* WFPB guidelines
-A WFPB diet is centered on whole, unrefined, or minimally refined plants.
-There is no calorie counting; eat as much WFPB food as you want.
-A diet can include up to 5% animal products and still be considered WFPB.
-
-WFPB guidelines (they are approximately the same):
-- https://www.forksoverknives.com/what-to-eat/
-- https://nutritionstudies.org/whole-food-plant-based-diet-guide/ > Food Guide\\
-- https://www.ornish.com/proven-program/nutrition/
-- https://nutritionfacts.org/video/dr-gregers-daily-dozen-checklist-2/
-  - https://nutritionfacts.org/app/uploads/2018/03/imperial.png
-  - https://nutritionfacts.org/app/uploads/2018/03/metric.png
-
 * Standard American Diet (SAD)
 https://en.wikipedia.org/wiki/Western_pattern_diet
 The Western pattern diet (WPD) or standard American diet (SAD) is a modern dietary pattern that is generally characterized by high intakes of red meat, processed meat, pre-packaged foods, butter, fried foods, high-fat dairy products, eggs, refined grains, potatoes, corn (and High-fructose corn syrup) and high-sugar drinks.
@@ -248,6 +233,19 @@ From the perspective of a rural central African:
 - SAD causes chronic disease
 - therefore SAD is extreme
 
+* WFPB guidelines
+A WFPB diet is centered on whole, unrefined, or minimally refined plants.
+There is no calorie counting; eat as much WFPB food as you want.
+A diet can include up to 5% animal products and still be considered WFPB.
+
+WFPB guidelines (they are approximately the same):
+- https://www.forksoverknives.com/what-to-eat/
+- https://nutritionstudies.org/whole-food-plant-based-diet-guide/ > Food Guide\\
+- https://www.ornish.com/proven-program/nutrition/
+- https://nutritionfacts.org/video/dr-gregers-daily-dozen-checklist-2/
+  - https://nutritionfacts.org/app/uploads/2018/03/imperial.png
+  - https://nutritionfacts.org/app/uploads/2018/03/metric.png
+
 * Getting started with a WFPB trial
 This is a simple whole-food trial for people new to the WFPB diet:
 - eat WFPB for breakfast
@@ -263,8 +261,4 @@ A simple breakfast is oatmeal with nuts and fruit on top:
 No need to measure ingredients, cook the oats, or count calories.
 WFPB is an all-you-can eat diet; eat as much as you want.
 
-* More WFPB resources
-- [[./2_wfpb_implementation.org]] - my practical tips on preparing a WFPB diet.
-- [[./3_wfpb_advanced.org]] - my notes on WFPB science and nutrition.
-- [[./nutrition_confusion.org]] - why the public is confused about nutrition.
-- Many more WFPB resources are found by searching the Internet for "whole-food plant-based".
+NEXT: [[./2_wfpb_implementation.org][2_wfpb_implementation.org]] - practical tips on preparing a WFPB diet.
