@@ -2,9 +2,8 @@ Copyright © 2019 by Wolfram Volpi, All rights reserved.\\
 This page is redirected from https://tiny.cc/wolf-wfpb
 
 The whole-food plant-based (WFPB) diet is the healthiest diet for humans.
-These are my notes on WFPB.
-
-[[./1_wfpb_basics.org][1_wfpb_basics.org]] - Introductions and evidence to evaluate the WFPB diet.
-[[./2_wfpb_implementation.org][2_wfpb_implementation.org]] - Practical tips on preparing a WFPB diet.
-[[./3_wfpb_advanced.org][3_wfpb_advanced.org]] - WFPB science and nutrition.
-[[./nutrition_confusion.org][nutrition_confusion.org]] - Why the public is confused about nutrition.
+These are my WFPB notes:
+- [[./1_wfpb_basics.org][1_wfpb_basics.org]] - Introductions and evidence to evaluate the WFPB diet.
+- [[./2_wfpb_implementation.org][2_wfpb_implementation.org]] - Practical tips on preparing a WFPB diet.
+- [[./3_wfpb_advanced.org][3_wfpb_advanced.org]] - WFPB science and nutrition.
+- [[./nutrition_confusion.org][nutrition_confusion.org]] - Why the public is confused about nutrition.
