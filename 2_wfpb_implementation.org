@@ -1,0 +1,508 @@
+Copyright © 2019 by Wolfram Volpi, All rights reserved.
+
+* Table of Contents                                           :TOC_3:
+- [[#transitioning-to-a-wfpb-diet][Transitioning to a WFPB diet]]
+- [[#food-energy-density][Food-energy density]]
+- [[#choosing-a-wfpb-guideline][Choosing a WFPB guideline]]
+    - [[#dr-gregers-daily-dozen-checklist-is-exact][Dr. Greger's Daily Dozen Checklist is exact]]
+    - [[#dr-campbells-wfpb-diet-guideline-is-simple][Dr. Campbell's WFPB diet guideline is simple]]
+- [[#produce---shopping-storage-and-cleaning][Produce - shopping, storage, and cleaning]]
+- [[#taste-preferences-are-malleable][taste preferences are malleable]]
+- [[#wfpb-recipe-sites][WFPB recipe sites]]
+- [[#cooking-without-oils][Cooking without oils]]
+- [[#sweeteners][Sweeteners]]
+- [[#supplements][Supplements]]
+- [[#rice][Rice]]
+- [[#organic][Organic]]
+- [[#children][Children]]
+- [[#after-age-65][After age 65]]
+- [[#restaurants][Restaurants]]
+
+* Transitioning to a WFPB diet
+When I first learned about WFPB food, my eating habits improved just from knowing what the healthiest diet is.
+I started making healthier food choices when it was convenient.
+According to WFPB guidelines, vegetables are heather than animal products.
+So I made a pizza with bell pepper topping instead of extra cheese.
+That was easy!  And the pizza tasted just as good.
+
+Almost all packaged foods and restaurant foods are loaded with refined grain, sugar, oil, and salt (as of 2019).
+If you're going to eat mostly WFPB, you will have to cook from scratch.
+The WFPB diet includes a huge selection of delicious whole foods and no calorie counting.
+The following strategy transitioned me to WFPB in stages.
+
+Start with the easiest changes:
+- replace juice and soda with water or unsweetened tea
+- replace refined sweets with fruit
+- replace cow milk with unsweetened plant milk e.g. soy milk
+- breakfast is a bowl of uncooked oats + nuts + 1 tablespoon ground flax seeds + berries or grapes + soy milk
+That way 1/3 of the diet is whole foods, with 1/3 of the health benefits.
+
+A few days later, replace lunch with a plate of:
+- 50% vegetables
+- 25% whole grains
+- 25% legumes
+Plus a side of salad and a fruit.
+With WFPB breakfast and lunch, 2/3 of the diet is whole foods, with 2/3 of the health benefits.
+
+Lunch variations can include:
+- a bowl of vegetable & bean soup or minestrone soup
+- salad with nuts or beans
+- Buddha bowl https://www.google.com/search?q=buddha+bowl
+
+For fast meal prep, keep three batches of ready-to-assemble foods in your refrigerator:
+- grains     (tortilla or cooked grain like barley, millet, or quinoa)
+- legumes    (cooked beans, lentils, or peas)
+- vegetables (fresh, cooked, canned, or frozen)
+When a batch goes empty, make or buy a replacement batch.
+
+After your WFPB breakfast and lunch routine is settled, start transitioning dinners to WFPB.
+There are two ways to do this:
+1. Use your old recipes, substituting animal products with an equal amount of legumes, nuts, seeds, or avocados.
+   Substitution works for some entrées.  Other entrées don't transition so well:
+   - steak & potatoes becomes nuts & potatoes
+   - pepperoni pizza just isn't the same without the cheese and pepperoni
+   Some people substitute meat with mock meats like seitan, veggie bacon, and veggie sausage.
+   - https://nutritionstudies.org/plant-based-grocery-shopping-guide/ > Cheese Substitutes, Meat Substitutes
+   - Mock meats are processed foods; not as healthy as whole foods but healthier than meat.\\
+     https://nutritionfacts.org/video/plant-based-atkins-diet/
+2. Try some entirely new entrées that naturally don't feature animal-products e.g. stir fry, curries.
+   The WFPB taste is very different.  And it is tasty.
+   Spices make whole food tasty and healthy e.g. turmeric in Indian food.
+
+Up to 5% animal product is considered WFPB.
+Examples of 5% 2500cal/day animal products:
+- 0.9 oz  (26g) cheddar cheese
+- 1.7 oz  (49g) ground beef
+- 5.0 oz (140g) skin-less chicken breast
+https://ndb.nal.usda.gov/ndb/search/list lists food nutrient quantities
+
+If you're sharing a WFPB meal with someone that wants to eat animal products, it's easy to add some to their plate.
+
+* Food-energy density
+When you transition to WFPB, you will have to get used to eating a larger volume of food.
+For the same amount of calories, a WFPB meal is much larger than a meat or cheese-centered meal.
+Here are some pictures and charts: https://www.google.com/search?q=food+Energy+Density&tbm=isch
+
+You can eat all the leafy greens you can shovel into your face and not become overweight.
+We would need to eat 9 pounds of kale to get 2,000 calories.
+It is virtually impossible to get enough calories from leafy vegetables alone.
+Eat leafy greens for their nutrients and fiber, not for their calories.
+
+Since changing to WFPB I eat more often.
+If I put off eating because I am too busy, I will be very hungry by the time I get around to eating.
+Then I eat until I am stuffed.
+One hour later I am hungry again and eat again.
+I think the double eating happens because it takes one hour for my stomach to empty into the intestine.
+And if I haven't eaten in a while, it takes two stomach fulls of low-energy-dense foods to get my energy back.
+In contrast, high-energy-dense foods restored my energy in one eating.
+
+A WFPB diet gets most of its calories from starchy vegetables and fruits.
+These are the foods that people around the world have thrived on for generations:
+- tubers like potatoes and sweet potatoes
+- starchy vegetables like corn and peas
+- whole grains like brown rice, millet, quinoa, and buckwheat
+- legumes like chickpeas, black beans, kidney beans, lentils, and lima beans
+- fruits
+
+Eating a small amount of low-calorie refined food is OK because it doesn't displace many nutrients.
+These refined foods have low-calorie density:
+- vinegar has very low-calorie density
+- vegetable stock or broth
+- unsweetened plant milk to wet cereal
+
+If you get too thin, read this: https://nutritionstudies.org/plant-based-diet-reason-youre-underweight/
+
+* Choosing a WFPB guideline
+Albert Einstein said “Things should be as simple as possible and no simpler.”
+A dietary guideline should be simple to follow, and be exact enough to capture all the nutrients.
+
+Dietary guidelines specify food groups because some food groups have special nutrients not found in abundance elsewhere.
+Foods are grouped based on the available evidence (which will be incomplete for decades).
+
+How foods are grouped varies between dietary guidelines.
+There are several [[file:1_wfpb_basics.org::*WFPB%20guidelines][WFPB guidelines]] to choose from.
+Which WFPB guideline you chose will depend largely on your preference for exactness v.s. simplicity.
+This section compares guidelines from Dr. Greger and Dr. Campbell.
+
+*** Dr. Greger's Daily Dozen Checklist is exact
+Daily Dozen Checklist source:
+- https://nutritionfacts.org/video/dr-gregers-daily-dozen-checklist-2/
+- https://nutritionfacts.org/app/uploads/2018/03/imperial.png
+- https://nutritionfacts.org/app/uploads/2018/03/metric.png
+
+Daily Dozen Checklist:
+1. Greens      (2 servings)
+2. Vegetables  (2 servings)
+3. Cruciferous (1 serving)
+4. Beans       (3 servings)
+5. Fruits      (3 servings)
+6. Berries     (1 serving)
+7. Grains      (3 servings)
+8. Nuts        (1 serving)
+9. Beverages
+10. Flaxseeds  (1 serving)
+11. Spices
+
+The Daily Dozen Checklist specifies the number of daily servings for each food category.
+The checklist has about 1400 calories; eat additional whole-foods to get enough calories.
+The additional whole-foods beyond 1400 calories allows for flexibility.
+
+Not sure if there is enough evidence to warrant giving cruciferous and berries their own food categories.
+[[https://nutritionstudies.org/scientific-reductionism-detracts-whole-food-plant-based-message/][Dr. Campbell said]], "a large number of similar plant-based foods are able to do the same thing."
+As far as I know, cruciferous and berries are not correlated to health in large observational studies.
+It's easy enough to add them to a diet, but it does add complexity e.g.
+- add berries and flaxseed to every breakfast
+- add cruciferous to lunch or dinner
+
+Legumes and nuts correlated to good health in large observational studies:
+- https://nutritionfacts.org/video/increased-lifespan-from-beans/
+- https://nutritionfacts.org/video/nuts-may-help-prevent-death/
+- https://nutritionfacts.org/topics/nuts/
+IMHO, the evidence for beans and nuts is strong enough to warrant their own food categories.
+
+I ruffly follow Dr. Greger's Daily Dozen without the checklist.
+Sometimes I use the checklist for a few days to see what I am missing, and maybe tweak my diet.
+
+*** Dr. Campbell's WFPB diet guideline is simple
+Dr. Campbell's WFPB diet guideline source:
+- https://nutritionstudies.org/defining-food-groups-plant-based-nutrition/
+- https://nutritionstudies.org/whole-food-plant-based-diet-guide/ > Food Guide\\
+
+Here I have listed Greger's 11 food-categories under Campbell's 7 food categories:
+- Non-starchy Vegetables
+  - 1. Greens
+  - 2. Vegetables
+  - 3. Cruciferous
+- Starchy Vegetables
+  - 2. Vegetables  (also above)
+  - 3. Cruciferous (also above)
+  - 4. Beans
+- Fruits
+  - 5. Fruits
+  - 6. Berries
+- Whole Grains
+  - 7. Grains
+  - 8. Nuts
+- Beverages
+  - 9.  Beverages
+- Omega-3 sources
+  - 10. Flaxseeds
+- Spices
+  - 11. Spices
+
+Dr. Campbell's guideline is simpler than Greger's because
+- 4 fewer food categories
+- quantities are not specified
+
+With no quantities specified, the guideline is equivalent to "eat only whole-foods".
+And the list of food groups is an example of whole foods.
+The guideline provides maximum flexibility and seems to get good results.
+
+* Produce - shopping, storage, and cleaning
+WFPB uses ingredients commonly found in produce and bulk sections of grocery stores: vegetables, grains, legumes, spices, and herbs.
+
+When I go shopping, I usually grab whatever produce I like and is in season.
+When someone else goes shopping for me, I use the Daily Dozen checklist to create a shopping list of foods.
+Here is my [[https://docs.google.com/spreadsheets/d/1GD-iO59-CBSPIlawTaviWONzr9kj4T0Jdta9HFFvGnc][dail_dozen with integrated shopping list]] (quantity to buy gets penciled into the left column).
+
+My food consumption varies with the grocery-shopping cycle:
+1. grocery shopping
+2. eat mostly produce while it's fresh
+3. when low on produce, eat more grains, canned, and frozen foods
+4. when out of produce, go to step 1.
+
+Produce prices in the American market\\
+http://www.producepriceindex.com/
+
+Don't Put Fruits in the Refrigerator Until They Are Ripe\\
+https://extension.illinois.edu/thriftyliving/tl-ripefruit.html
+
+https://www.fda.gov/ForConsumers/ConsumerUpdates/ucm256215.htm\\
+Rinse produce BEFORE peeling.
+Gently rub produce while holding under plain running water.
+
+http://time.com/5262168/how-to-wash-fruits-and-vegetables-pesticides/ 2018\\
+Clean produce just before eating, because moisture can encourage bacterial growth.
+Just rinse, and when possible, use your fingers to rub away dirt or other residues.
+Remove stickers from fruit before washing.
+
+The Best Way to Wash Fruits and Vegetables
+https://foodrevolution.org/blog/how-to-wash-vegetables-fruits/\\
+To remove pesticides, one ounce of baking soda mixed with 100 ounces of water, and soak for 12 minutes.
+- Effectiveness of Commercial and Homemade Washing Agents in Removing Pesticide Residues on and in Apples, 2017
+  https://pubs.acs.org/doi/abs/10.1021/acs.jafc.7b03118?source=cen\\
+  Using a 10 mg/mL NaHCO3 washing solution, it took 12 and 15 min to completely remove thiabendazole or phosmet surface residues, respectively.
+  However, 20% of applied thiabendazole and 4.4% of applied phosmet had penetrated into the apples following the 24 h exposure, .. which could not be washed away
+
+https://nutritionfacts.org/video/how-to-make-your-own-fruit-and-vegetable-wash/ 2015\\
+4:46 To remove pesticides, 10% salt water solution
+- Effects of home preparation on pesticide residues in cabbage 2007
+  https://www.sciencedirect.com/science/article/pii/S0956713506002696\\
+  Experiment was carried out to evaluate the pesticides (chlorpyrifos, p,p-DDT, cypermethrin, chlorothalonil) residue levels in cabbage in the process of home preparation by washing.
+  - Washing with NaCl [salt] solutions (at 10% concentration for 20 min) produced 67.2%, 65.0%, 73.3% and 74.1% loss, respectively.
+  - Washing by tap water (for 20 min) were 17.6%, 17.1%, 19.1% and 15.2% loss, respectively. 
+
+* taste preferences are malleable
+Most people take 1 or 2 months to train themselves to a WFPB diet.
+In that time they adjust or deal with all the things that influenced eating behavior:
+- taste
+- convenience
+- habit
+- social situation
+
+https://nutritionfacts.org/video/changing-our-taste-buds/
+
+The amount of concentrated oil & sugar most people consume today is unnatural and unhealthy.
+Refined food is concentrated by removing fibers and other parts of the plant:
+- pure sugar tastes sweeter than whole fruit e.g. table sugar tastes sweeter than dried dates
+- added oil makes food taste richer e.g. fried food
+
+In pre-industrial times, people consumed very little refined food.
+The human brain is very capable of enjoying the natural taste intensities found in whole foods.
+
+Give WFPB enough time for your eating habits to adapt.
+Then you will enjoy the WFPB diet as much as any food.
+A bell pepper tastes so much sweeter, for example.
+
+Changing the palate takes time.
+People that already eat mostly plant whole-foods may not require any palate training.
+People coming from a carnivore diet with almost no fruits or vegetables require the most palate training.
+They also gain the most health benefits.
+People that ate animal products with every meal from the time they were weaned to age 4 may take a year of palate training.
+
+For many people changing diet is initially difficult – maybe even for weeks.
+Craving unnaturally sweat oily tastes is temporary, it will pass.
+Your brain slowly learns new taste preferences automatically.
+Be patient with your taste buds, don't rush the process.
+Stick with it, and your brain will learn to like the WFPB tastes.
+Many WFPB eaters report losing their desire for concentrated oil & sugar after a few months.
+
+You can use more spices to compensate for less oil & sugar.
+Spices make whole food tasty and healthy e.g. Curry in Indian food.
+This very subjective.  Read the WFPB forums and [[*WFPB recipe sites][WFPB recipes]] to get ideas that match your tastes.
+
+https://www.reddit.com/r/PlantBasedDiet/comments/61hx4e/anyone_have_experience_going_from_being_mostly/
+- by re_Claire\\
+I find black beans are such a great way of getting a more meaty feel to a meal, and mushrooms offer a great meaty flavor.
+
+- by 2comment\\
+I was a heavy meat eater from a family of them ...
+Training palate takes time. You might hate diet for a couple weeks. Then tolerate it a few more. Then learn to anticipate meals. I haven't touched meat since... but the first months my diet really varied widely just trying EVERYTHING vegan out before settling on my routine. All type of online recipes, asian, mexican, etc. I suggest anyone else new do the same if they can.
+
+- by phaionix
+    I used to eat a lot of meat and dairy but switched to vegetarian 2 years ago and vegan/pbd a year and a half ago.
+
+    I think what helps most during the transition is faux meat products like tofurkey and gardein. They replace your meat craving and you can slowly phase them out for things like beans and tofu.
+
+    For milk, I find soy milk to be the best. It is a closer consistency to cow milk than others and has a good protein and calorie content.
+
+    To replace cheese, I just use nutritional yeast, as I didn't really like many vegan cheeses. Except maybe the vegan garlic cream cheese spread (don't remember the brand).
+
+    As for adding veggies, the easiest option is buying frozen mixed vegetable packs and having those with every lunch and dinner. I don't have a lot of time to cook so this is super convenient for me.
+
+    You also need at least a salad a day, so either mixed greens or baby spinach is a good start. But for these you'll need to buy every week at least. I'd recommend finding a dressing to go with this that is NOT low fat and that tastes good. The fat is necessary for vitamin and phytonuutrient absorption. Eventually you can trade this out for something like balsalmic vinegar and a handful of walnut halves or a quarter avocado.
+
+    Edit: As for fruit, I eat a lot of bananas, apples, and clementines/baby oranges. These are pretty cheap, last a while, and you can eat them whenever. It's also good to add berries where you can, for example, I use a frozen berry mix and add that to my oatmeal in the mornings.
+
+    In terms of tangible health benefit, my skin has gotten a bit clearer and my heart rate has dropped by about 5-10 bpm. One thing to note, you should probably have a b12 supplement or a food that is fortified with it. Alternative milks and nutritional yeast are best.
+
+- by BlueEmpathy\\
+    You have to experiment. Try many different vegetables and for each vegetable try different cooking methods and recipes. Rediscover what you like. There is such a huge variety of veggies that you will find something you love for sure. But it's also a matter of habits, and in particular of how your taste is used to eat. I can assure you that with time you can make it used to eat and like other things. I now discovered i like very much steamed broccoli without salt or oil, and raw plain fennel too. Everyone's telling me that they have no taste, but my tongue is now used to perceive their original taste without condiments or fancy cooking.
+
+- by NaturalGnomad
+    The transition from omni with limited fruits and veggies to pbd will increase your food variety 10 fold or more. There are so many new foods and ways to prepare them you will definitely thrive in this lifestyle.
+
+    One great example is the burger. You can find rice based, oat based, bean or lentil based, or many others. Our favorite was made with beets and cocoa among other ingredients. So much better than some boring ground meat.
+
+    So not only do you feel better, but you get to eat more and it tastes better. Enjoy the new adventure in taste and health!
+
+* WFPB recipe sites
+WFPB recipe sources:
+- https://www.drmcdougall.com/health/education/recipes/mcdougall-recipes/
+- https://nutritionstudies.org/recipes/
+- https://nutritionstudies.org/easy-plant-based-meal-prep-breakfast-lunch-dinner/
+- https://www.forksoverknives.com/recipes/?recipe_type=all
+- http://www.straightupfood.com/blog/recipe-index/
+- https://www.drfuhrman.com/recipes
+- http://nakedfoodmagazine.com/
+- https://minimalistbaker.com/
+- http://www.straightupfood.com/blog/recipe-index/
+- http://www.happyhealthylonglife.com/happy_healthy_long_life/recipes/
+- http://www.mrsplantintexas.com/
+- https://cleanfooddirtygirl.com/recipe-index/
+- https://nutritionfacts.org/cookbook/ "The How Not to Die Cookbook" by Dr. Michael Greger
+- https://nutritionfacts.org/recipes/
+- search: WFPB recipe
+- search: vegan recipe, and leave out refined foods like oil, sugar, white flour
+
+* Cooking without oils
+https://www.drmcdougall.com/misc/2007nl/aug/cookingwithoutoils.htm
+
+* Sweeteners
+Fruits are WFPB sweets.  Raisins and dried dates are extra sweet.
+- https://nutritionfacts.org/video/are-raisins-good-snacks-for-kids/
+- https://nutritionfacts.org/video/the-healthiest-raisin-2/\\
+  Current raisins are healthier than large raisins because more skin.
+- https://nutritionfacts.org/video/the-healthiest-sweetener/\\
+  healthiest sweetener is date sugar, molasses is runner up.
+- https://nutritionfacts.org/video/are-dates-good-for-you/
+- https://nutritionfacts.org/recipe/date-syrup/\\
+  Date sugar is dried and pulverized dates.
+
+Refined sugar and artificial sweeteners are not whole foods.
+https://nutritionfacts.org/audio/not-so-sweet/\\
+Artificial sweeteners may increase the desire for sugar-sweetened, energy-dense beverages and foods.
+So later the person eats more sweats, and ends up eating just as many total calories.
+
+Artificial sweeteners:
+- https://nutritionfacts.org/video/effect-of-sucralose-splenda-on-the-microbiome/\\
+  Non-caloric artificial sweeteners induce glucose intolerance by altering the microbes in the gut. 
+- https://nutritionfacts.org/video/is-stevia-good-for-you/\\
+  Stevia (Truvia) is safe in small quantities.
+- https://nutritionfacts.org/video/a-harmless-artificial-sweetener/\\
+  Erythritol is the safest artificial sweetener.
+  - https://en.wikipedia.org/wiki/Erythritol\\
+    Erythritol is 60–70% as sweet as sucrose (table sugar).
+
+* Supplements
+https://nutritionfacts.org/topics/supplements/
+- With a few exceptions, whole foods are more effective than supplements.
+
+https://nutritionfacts.org/2011/09/12/dr-gregers-2011-optimum-nutrition-recommendations/\\
+- Vitamin B12
+  - https://nutritionfacts.org/video/cheapest-source-of-vitamin-b12/\\
+    Dr. Greger explains Vitamin B12 dosage.
+- Vitamin D3
+  - https://nutritionstudies.org/important-vitamin-d-facts-need-know/\\
+    For adults, 2,000 IU (50 micrograms) per day is a good starting point.
+  - https://nutritionfacts.org/video/take-vitamin-d-supplements-with-meals/\\
+    because oil-soluble vitamin needs oil
+  - The Cumulative Effects of Vitamin D Supplementation 2015 by Popper
+    https://www.youtube.com/watch?v=vPwZfzb8nno
+    - a large amount of vitamin D can be stored in the fat and the clinical significance is unknown
+    - blood test does not indicate how much vitamin D is stored in fat, blood test might be the wrong marker
+  - My Vitamin D3 compromise strategy (which might be wrong)
+    - Take Vitamin D3 supplements in winter and use a minimal amount of sun exposure for remainder of year.
+    - If winter vitamin D dose is too much, my skin can restore homeostasis over the summer.
+- Omega-3
+  - https://nutritionfacts.org/2018/09/25/do-flaxseeds-offer-sufficient-omega-3s-for-our-heart/\\
+    Flax seeds provide omega-3 ALA
+  - https://nutritionfacts.org/video/should-vegans-take-dha-to-preserve-brain-function/\\
+    For older people that eat no fish, Omega-3 supplements slows brain shrinkage.
+  - https://nutritionstudies.org/to-take-or-not-to-take-fish-oil/\\
+    If you eat no added oil (especially omega-6) then nuts and flaxseeds can provide enough omega-3, and there is no need to take omega-3 supplements.
+
+I put my supplements in a 7-Day Clear Pill Organizer:\\
+https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20181206092708&SearchText=7+Day+Clear+Pill
+
+https://veganhealth.org/ has evidence-Based nutrient recommendations with linked citations.
+
+* Rice
+https://en.wikipedia.org/wiki/Brown_rice\\
+Brown rice is whole-grain rice; white rice is not.
+Brown rice, red rice, gold rice, and black rice are all whole rices, but with differently pigmented outer layers.
+
+https://nutritionfacts.org/video/do-the-pros-of-brown-rice-outweigh-the-cons-of-arsenic/\\
+Rice has more arsenic than other whole grains.
+If you like other whole grains just as much, go with the lower-arsenic option.
+
+https://nutritionfacts.org/video/The-Effects-of-Too-Much-Arsenic-in-the-Diet/\\
+Very low levels of arsenic cause health problems.
+
+https://nutritionfacts.org/video/which-brands-and-sources-of-rice-have-the-least-arsenic/\\
+Consumer Reports suggested brown basmati from California, India, or Pakistan might be among the safer rice choices.
+Arsenic pesticides were banned 30 years ago; after 30,000 tons of arsenic chemicals were dumped onto cotton fields in the southern United States.
+
+https://nutritionfacts.org/video/how-to-cook-rice-to-lower-arsenic-levels/\\
+Cook brown rice in large amounts of excess water, and then drain the excess water after cooking.
+A 10-to-1 ratio reduced arsenic by 60%.
+
+* Organic
+Series of organic-food videos:
+- https://nutritionfacts.org/video/are-organic-foods-more-nutritious/
+- https://nutritionfacts.org/video/are-organic-foods-safer/
+- https://nutritionfacts.org/video/are-organic-foods-healthier/
+- https://nutritionfacts.org/video/are-the-benefits-of-organic-food-underrated-or-overrated/\\
+  People tend to overestimate the risks of pesticides.
+  We get a tremendous benefit from eating conventional fruits and vegetables that far outweighs whatever tiny bump in risk from the pesticides.
+  Concern about pesticides should not stop us from stuffing our face with as many fruits and vegetables as possible.
+  But why accept any risk at all when you can choose organic?
+
+* Children
+https://nutritionstudies.org/why-parents-should-keep-children-meat-and-dairy-free/ By Benjamin Spock, MD
+
+https://nutritionstudies.org/eat-your-vegetables-getting-young-children-to-eat-healthy/ By Benjamin Spock, MD
+
+https://nutritionstudies.org/healthy-children-begin-healthy-parents-food-choices-matter/
+
+https://nutritionfacts.org/topics/children/
+
+https://nutritionfacts.org/video/tricks-to-get-kids-to-eat-healthier-at-home/
+
+https://nutritionfacts.org/video/tricks-to-get-kids-to-eat-healthier-at-school/
+
+https://aeon.co/ideas/its-not-that-your-teeth-are-too-big-your-jaw-is-too-small by Peter Ungar\\
+The sizes and shapes of our teeth are genetically pre-programmed.
+The stress put on the jaw during childhood chewing determines jaw length.
+Feeding children too much soft food results in crowded teeth or braces.
+Feeding children tough vegetables stimulates jaw-bone growth to match tooth size.
+
+* After age 65
+https://nutritionfacts.org/video/how-much-vitamin-d-should-you-take/\\
+vitamin D 2,000 IUD/day, 3,500 IUD/day if over 70 year old
+
+https://nutritionfacts.org/video/increasing-protein-intake-age-65/\\
+2:07 The definitive study was published in 2008, and it found no difference in the protein requirements between young and old.
+Adding protein does not seem to help.
+4:19 Consuming recommended levels of vegetables was associated with cutting the odds basically in half of low muscle mass.
+If we are going to increase our protein consumption after age 65, it would be preferable to be plant-based proteins to protect us from frailty.
+
+Effect of Protein Intake on Lean Body Mass in Functionally Limited Older Men: A Randomized Clinical Trial. 2018
+https://www.ncbi.nlm.nih.gov/pubmed/29532075
+- Participants were randomized for 6 months to controlled diets with 0.8 g/kg/d of protein plus placebo, 1.3 g/kg/d of protein plus placebo.
+- acronyms: recommended dietary allowance (RDA), lean body mass (LBM)
+- Conclusions and Relevance:
+  Protein intake exceeding the RDA did not increase LBM, muscle performance, physical function, or well-being measures ...
+  The RDA for protein is sufficient to maintain LBM, and protein intake exceeding the RDA does not promote LBM accretion ...
+- Here is the description of the study's design: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110262/
+
+Plant-based nutrition for healthcare professionals: implementing diet as a primary modality in the prevention and treatment of chronic disease 2017
+http://www.jgc301.com/ch/reader/create_pdf.aspx?file_no=S_20170301012\\
+This paper will describe a health-promoting whole food, plant-based diet; delineate macro- and micro-nutrition, emphasizing specific geriatric concerns; and offer guidance to physicians and other healthcare practitioners to support patients in successfully utilizing nutrition to improve their health.
+
+https://www.telegraph.co.uk/health-fitness/body/meat-health-truth-science-food-nutrition-vegetarian/ 2015
+In the 50-65 age group, those that got a fifth or more of their calories from animal proteins such as red meat had a 74 percent higher risk of death. But what wasn’t widely reported widely was that in the older over 65s group, eating a diet high in protein including red meat had a protective effect.
+
+The researchers hypothesised that protein could control the growth hormone IGF-1, which helps our bodies grow but has been linked to cancer. Levels of IGF-1 dramatically drop off after 65, leading to potential frailty and muscle loss. 'While high-protein intake during middle age is harmful,’ the authors theorised, 'it’s protective for older adults: those over 65 who ate a moderate- or high-protein diet were less susceptible to disease.’
+
+'It is plausible that higher levels of the IGF-1 hormone might be good for people entering older age and it’s an area scientists are currently working on, but it’s not yet established to be true,’ says Professor Key.
+
+More than around 70 grams [2.5 oz of red meat, which is 5% to 10% of total calories] a day was associated with increased risk.
+
+https://renaissancehumans.com/high-protein-vegetables/\\
+Scroll down to: Protein tables for legumes, high-protein vegetables.
+Percent Of Calories From Protein.
+
+* Restaurants 
+There are omnivore restaurants that produce great vegetarian dishes.
+Steak houses with salad bars.
+
+Many WFPB eaters don't eat out often, and just don't worry about oil when they do eat out.
+Some ask for "minimal oil" or "no oil".
+In South Asian cuisine, many of the preparations involve soaking the spice in oil for a time before cooking.
+
+https://nutritionstudies.org/tips-for-dining-out-on-a-plant-based-diet/
+
+Dr. John McDougall eating healthfully at restaurants and salad bars:\\
+https://www.youtube.com/watch?v=3sBrA62J43g&t=256
+
+Vegan at Taco Bell:\\
+https://www.tacobell.com/blog/how-to-eat-vegan
+
+reddit forum has many threads that discuss eating out at restaurants:\\
+https://www.reddit.com/r/PlantBasedDiet/
+
+Results vary widely:
+- [[https://www.reddit.com/r/PlantBasedDiet/comments/9ey0uq/first_time_we_order_fajitas_at_a_local_restaurant/][the good]]
+- [[https://www.reddit.com/r/PlantBasedDiet/comments/a01xts/midwest_on_vacation_wfpb_struggle_is_real/][the ugly]]
+

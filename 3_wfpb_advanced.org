@@ -1,0 +1,990 @@
+Copyright © 2019 by Wolfram Volpi, All rights reserved.
+
+* Table of Contents                                           :TOC_3:
+- [[#comparing-diets][Comparing diets]]
+  - [[#junk-food-vegan][Junk-food vegan]]
+  - [[#wfpb][WFPB]]
+  - [[#mediterranean][Mediterranean]]
+  - [[#standard-american-diet-sad][Standard American diet (SAD)]]
+  - [[#inuit][Inuit]]
+  - [[#healthy-diets][Healthy diets]]
+  - [[#paleolithic-diet][Paleolithic diet]]
+  - [[#low-carbohydrate-diets][Low-carbohydrate diets]]
+- [[#the-research][The research]]
+  - [[#why-the-wfpb-diet-is-the-healthiest][Why the WFPB diet is the healthiest]]
+  - [[#large-scale-epidemiological-observational-studies][Large-scale epidemiological observational studies]]
+  - [[#chinacornelloxford-project][China–Cornell–Oxford Project]]
+  - [[#dr-campbells-wholism-to-study-a-complex-system][Dr. Campbell's Wholism to study a complex system]]
+  - [[#dr-jacobs-food-synergy-to-study-a-complex-system][Dr. Jacobs food synergy to study a complex system]]
+- [[#the-finer-points-of-wfpb][The finer points of WFPB]]
+  - [[#whole-food-and-processed-food-defined]["Whole food" and "processed food" defined]]
+  - [[#why-the-whole-in-whole-food-is-important][Why the "whole" in whole-food is important]]
+  - [[#how-much-fiber][How much fiber?]]
+  - [[#why-no-added-oil][Why no added oil]]
+  - [[#how-to-add-oil-and-sugar][How to add oil and sugar]]
+- [[#lifespan-healthspan-and-aging][Lifespan, healthspan and aging]]
+- [[#look-up-what-ails-you][Look up what ails you]]
+  - [[#search-acne][search: acne]]
+  - [[#search-allergies][search: allergies]]
+  - [[#search-arthritis][search: arthritis]]
+  - [[#search-cancer][search: cancer]]
+  - [[#search-cancer-breast][search: cancer, breast]]
+  - [[#search-cancer-colon][search: cancer, colon]]
+  - [[#search-cancer-prostate][search: cancer, prostate]]
+  - [[#search-cataracts][search: cataracts]]
+  - [[#search-cholesterol][search: cholesterol]]
+  - [[#search-common-cold][search: common cold]]
+  - [[#search-depression][search: depression]]
+  - [[#search-diabetes][search: diabetes]]
+  - [[#search-food-addiction][search: food addiction]]
+  - [[#search-gas][search: gas]]
+  - [[#search-gout][search: gout]]
+  - [[#search-heartburn][search: heartburn]]
+  - [[#search-heart-disease-atherosclerosis][search: heart disease (atherosclerosis)]]
+  - [[#search-high-blood-pressure-hypertension][search: high blood pressure (hypertension)]]
+  - [[#search-inflammation][search: inflammation]]
+  - [[#search-kidney][search: kidney]]
+  - [[#search-obese-overweight-waistline][search: obese, overweight, waistline]]
+  - [[#search-osteoporosis][search: osteoporosis]]
+  - [[#search-stroke][search: stroke]]
+
+* Comparing diets
+The first 5 diets refer to the [[https://docs.google.com/spreadsheets/d/1CB6AhyblZRAyLtyf_FlFnhQNTdJ3FIfM1ywAFWqWNLI][comparing_diets]] graph.
+Diet protein is expressed as percent protein:energy ratio.
+
+** Junk-food vegan
+Vegans do not eat Animal products (meat, egg, dairy, fish).
+They have no restrictions on added sugar, added oil, or white flour.
+
+A junk food-vegan is a vegan who regularly consumes processed vegan food, such as vegan meats, fries, and vegan desserts such as non-dairy ice cream and Oreo cookies.
+
+Oil and sugar are empty calories; they are calories with no other nutrition.
+Added oil and sugar displace nutritious food.
+
+In the graph's "junk vegan" example, 53% of the diet is refined foods, such as white flour, sugar, and oil.
+The example nets a 7.4% protein diet, which can be protein deficient.
+For this reason, some junk-food vegans supplement with vegan protein powder.
+
+It's not just the protein though; added oil and sugar displace all nutrients.
+And refined nutrients are not as effective as [[*Why the "whole" in whole-food is important][nutrients in whole food]].
+
+*THE SAD REBOUND* (a short tragic story)\\
+He ate the Standard American diet (SAD).
+Then he heard that vegan was healthier.
+So he stopped eating meat and milk; and started eating french fries and cokes instead.
+After several months he felt worse.
+So he went back to eating the SAD and felt better again.
+
+This might be why so many "healthy" nutritional guidelines include a little animal product.
+Even if the expert panel believes that WFPB is the healthiest diet, they are afraid that too many people will:
+ continue eating junk (refined oil & sugar), stop eating meat, and not take B12 supplements.
+
+Not all vegans are junk-food vegans.
+Whole-food vegans favor a diet rich in whole foods.
+
+https://en.wikipedia.org/wiki/Veganism#Vegan_diet
+
+https://www.healthline.com/nutrition/what-is-a-vegan#section3 different types of veganism
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5701757/\\
+The mean contents of total fat and sugar for vegans, vegetarians, and meat eaters were the same, 30–31% fat and 22–23% sugar.
+
+** WFPB
+A WFPB diet is centered on whole plant food.
+When a person eats 100% WFPB, it's practically impossible to design a diet of whole plant foods that’s sufficient in calories, but deficient in protein.
+
+In the graph's WFPB example, 100% of the diet is whole food
+
+https://nutritionstudies.org/fat-plant-based-diets/\\
+WFPB is a diet that, for most people, is 10-15% fat, and 8-12% protein [that 10-15% fat is in the whole food].
+
+There is very strong evidence that WFPB diet is the healthiest diet for humans, all referenced to studies published in the peer-review literature:
+- Populations that eat a WFPB diet have the longest life spans and the fewest chronic diseases.
+- WFPB is the only diet proven to reverse heart disease, which is America's #1 killer.
+- A long list of other chronic conditions and diseases that are prevented or reversed by a WFPB diet.
+
+Nathaniel Dominy PhD. and the True Human Diet\\
+https://www.youtube.com/watch?v=h0PF5R0ywp4
+
+https://nutritionfacts.org/video/whats-the-natural-human-diet/
+
+** Mediterranean
+You don't need to go 100% WFPB to get health benefits.
+The Mediterranean diet is 60% WFPB and is healthier than most diets:
+- The Mediterranean diet is nearly vegetarian.  It's mostly whole food with added olive oil and a little meat.
+- It contains about the same amount of fat as SAD, but the fat is olive oil, which is less harmful than other fats.
+
+Mediterranean has more whole foods than most diets:
+- WFPB is 100% whole food
+- Mediterranean is 60% whole food
+- Junk-vegan is 47% whole food
+- SAD is 11% whole food
+- Inuit is 2% whole food
+
+The Mediterranean diet balances empty calories and animal products to maintain enough protein:
+- added olive oil is devoid of nutrients
+- animal products are protein dense
+
+A WFPB diet has enough protein and oil from just plants.
+A Mediterranean is less healthy than WFPB because:
+- missing phytonutrients nutrients
+- missing fiber
+- animal protein and saturated fat
+- all types of added oil increase atherosclerosis
+
+Descriptions of the Mediterranean diet:
+- https://nutritionfacts.org/topics/mediterranean-diet/
+- https://nutritionfacts.org/video/why-was-heart-disease-rare-in-the-mediterranean/
+- https://en.wikipedia.org/wiki/Mediterranean_diet
+- Mediterranean diet pyramid: a cultural model for healthy eating.
+  https://academic.oup.com/ajcn/article-abstract/61/6/1402S/4651234\\
+  This diet is low in saturated fat (< or = 7-8% of energy), with total fat ranging from 25% to 35% of energy.
+- Mediterranean diet and public health: personal reflections.
+  https://www.ncbi.nlm.nih.gov/pubmed/7754982\\
+  Most likely, the heart benefits of a Mediterranean diet are due to it being a nearly vegetarian diet.
+  The Mediterranean diet is a good diet in spite of the olive oil.
+
+Primary Prevention of Cardiovascular Disease with a Mediterranean Diet Supplemented with Extra-Virgin Olive Oil or Nuts, 2018
+  https://www.nejm.org/doi/full/10.1056/NEJMoa1800389
+- 96 events in the group assigned to a Mediterranean diet with extra-virgin olive oil (3.8%)
+- 83 events in the group assigned to a Mediterranean diet with nuts (3.4%)
+- 109 events in the control group (4.4%)
+- For those assigned to the low-fat diet, adherence was defined as a fat intake of 30% or less of total energy intake according to the food-frequency questionnaires... [this is not a low-fat diet]
+- [Esselstyn's results were much more impressive.
+   My conclusion is that extra virgin olive oil is less unhealthy than other oils, but all oils are unhealthy.]
+
+** Standard American diet (SAD)
+https://en.wikipedia.org/wiki/Western_pattern_diet\\
+The standard American diet (SAD) is 20-35% fat, and 10-35% protein.
+
+Humans only need 6% to 10% of calories from protein.
+Most Americans eat much more protein than needed, and it's mostly animal protein which is unhealthy.
+
+** Inuit
+https://www.forksoverknives.com/extreme-nutrition-the-diet-of-eskimos\\
+Eskimos lived in an environment where meat was the only food available most of the year.
+Eskimos suffer from atherosclerosis, bone loss, and their life expectancy is approximately 10 years shorter than the Danish population.
+
+https://nutritionfacts.org/video/omega-3s-and-the-eskimo-fish-tale/\\
+The Eskimo's diet is 98% animal products and they have poor health.
+
+** Healthy diets
+https://en.wikipedia.org/wiki/Healthy_diet\\
+A healthy diet is not complicated and contains mostly fruits, vegetables, and whole grains, and includes little to no processed food and sweetened beverages.
+The requirements for a healthy diet can be met from a variety of plant-based and animal-based foods.
+Nutrition guides are published by medical and governmental institutions.
+
+Like WFPB, all Healthy diets emphasize whole foods.
+WFPB and other Healthy diets are similar.
+The difference is that WFPB has stricter limits on refined foods and animal products compared to other healthy diets.
+
+WFPB meets these healthy-diet guidelines:
+- World Health Organization (WHO)
+- American Heart Association / World Cancer Research Fund / American Institute for Cancer Research
+- Harvard School of Public Health
+
+The United States Department of Agriculture (USDA) nutrition guide recommends eating dairy and oil.
+The USDA nutrition guide is also corrupted by conflict of interest which is well documented in [[file:nutrition_confusion.org::*Food%20politics][Food politics]].
+
+** Paleolithic diet
+https://en.wikipedia.org/wiki/Paleolithic_diet\\
+Diet of foods presumed to have been the only foods available to or consumed by humans during the Paleolithic era.
+- Paleo humans didn't eat grains and legumes [but that doesn't prove they are unhealthy].
+- Humans evolved to eat meat [but that doesn't prove how much meat is optimal or that meat doesn't cause chronic conditions in old age].
+
+To evaluate health benefits, the above bullets need to be studied in living human populations.
+- Studies show that whole grains and legumes are healthy.
+- Studies show that more than 5% meat cause chronic conditions.
+
+Paleo diets are healthier then SAD because Paleo diets include more whole foods.
+
+https://nutritionfacts.org/video/the-problem-with-the-paleo-diet-argument/
+
+** Low-carbohydrate diets
+https://en.wikipedia.org/wiki/Low-carbohydrate_diet\\
+Low-carbohydrate diets are associated with increased mortality, and they can miss out on the health benefits afforded by high-quality carbohydrate such as is found in pulses, fruit and vegetables.
+
+https://nutritionfacts.org/video/low-carb-diets-and-coronary-blood-flow/
+Low-[carb] diets were associated with a significantly higher risk of all-cause mortality.
+
+The Atkins diet is the most famous low-carb diet.
+http://atkinsexposed.org/Atkins_Nightmare_Diet.htm
+When properly evaluated, the theories and arguments of popular low carbohydrate diet books... rely on poorly controlled, non-peer-reviewed studies, anecdotes and non-science rhetoric.
+
+* The research
+** Why the WFPB diet is the healthiest
+The following series of short videos are packed with scientific evidence from peer-review literature.
+Each nutritionfacts.org/video page has a video, and below the video are buttons labeled "VIEW TRANSCRIPTS", "SOURCES CITED", "PREVIOUS VIDEO" and "NEXT VIDEO".
+
+1 - Plants provide protein
+- https://nutritionfacts.org/video/do-vegetarians-get-enough-protein/
+- https://nutritionfacts.org/video/the-great-protein-fiasco/
+- https://nutritionfacts.org/video/the-protein-combining-myth/\\
+- Professional athletes that get their protein from plants
+  - https://www.forksoverknives.com/meet-la-galaxys-baggio-husidic-a-high-performance-plant-powered-athlete
+  - https://www.businessinsider.com/elite-athletes-who-are-vegan-and-what-made-them-switch-their-diet-2017-10
+
+2 - More plant fiber
+- https://nutritionfacts.org/video/how-fiber-lowers-cholesterol/
+- https://nutritionfacts.org/video/lose-two-pounds-one-sitting-taking-mioscenic-route/
+- https://nutritionfacts.org/video/how-to-prevent-a-stroke/
+
+3 - Animal products are unhealthy
+- https://nutritionfacts.org/video/harvards-meat-and-mortality-studies/
+- https://nutritionfacts.org/video/the-okinawa-diet-living-to-100/
+- https://nutritionfacts.org/video/low-carb-diets-and-coronary-blood-flow/
+- https://nutritionfacts.org/video/the-problem-with-the-paleo-diet-argument/
+- https://nutritionfacts.org/video/animal-protein-compared-cigarette-smoking/
+
+4 - Whole-food plants are the most nutritious
+- https://nutritionfacts.org/video/what-are-the-healthiest-foods/
+
+5 - WFPB is the only diet that can prevent and reverse so many chronic diseases
+- https://nutritionfacts.org/video/plant-based-diets-for-diabetes/
+- https://nutritionfacts.org/video/how-not-to-die-from-high-blood-pressure/
+- https://nutritionfacts.org/video/china-study-on-sudden-cardiac-death/
+- https://nutritionfacts.org/video/eliminating-90-of-heart-disease-risk/
+- https://nutritionfacts.org/video/cancer-reversal-through-diet/
+
+** Large-scale epidemiological observational studies
+Coronary artery disease is virtually absent in cultures that eat WFPB diets, such as the Tarahumara Indians of northern Mexico, the Papua highlanders of New Guinea, and the inhabitants of rural China and central Africa.  Similar findings for many other chronic diseases and cancers.
+
+Nutrition [[https://en.wikipedia.org/wiki/Epidemiology][epidemiology]] observational studies correlate food consumption with health/disease outcomes.
+Data from several these large-scale observational studies show that the WFPB diet is associated with the least amount of chronic disease and the longest life spans:
+- [[*China%E2%80%93Cornell%E2%80%93Oxford Project][China–Cornell–Oxford Project]] (a.k.a. China study)
+- [[https://en.wikipedia.org/wiki/Adventist_Health_Studies][Adventist Health Study]]
+- [[https://www.hsph.harvard.edu/nutritionsource/nurses-health-study/][Harvard Nurses' Health Study]]
+- [[https://sites.sph.harvard.edu/hpfs/about-the-study/][Harvard Health Professionals Follow-up Study]]
+- [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/][Blue Zones]]
+
+In industrialized countries, most chronic degenerative diseases are caused by smoking, animal products, and refined foods.
+In most cases, these diseases are not an inevitable part of aging.
+They are preventable by eating a WFPB diet and not smoking:
+- overweight
+- pre-diabetes and diabetes
+- high LDL cholesterol
+- high blood pressure
+- atherosclerosis (heart disease)
+- angina
+- heart attack
+- stroke
+- some cancers
+- some arthritis
+- some dementia
+
+** China–Cornell–Oxford Project
+The China Study is the most comprehensive large study ever undertaken of the relationship between diet and the risk of developing disease.
+- China–Cornell–Oxford Project
+  https://en.wikipedia.org/wiki/China%E2%80%93Cornell%E2%80%93Oxford_Project\\
+- THE CHINA STUDY - The Top 12 Findings
+  https://www.fonteine.com/china_study.pdf\\
+  This is my favorite description of "The China Study" and the WFPB diet (25 pages long).
+- LifeStyle Magazine: The China Study https://www.youtube.com/watch?v=qKdvxz6Km_o\\
+  1980's interview with Dr. Campbell and Dr. McDougal (21 minutes)
+- https://nutritionstudies.org/the-china-study/ > The China Project Documentary (55 minutes):\\
+  4:40 China had big geographical differences, variations in disease mortality, diet, and lifestyle.
+- http://www.cornell.edu/video/playlist/the-china-project-studying-the-link-between-diet-and-disease\\
+  8 short academic videos (about 70 minutes total)
+- The book "The China Study" by T. Colin Campbell, PhD and his son Thomas M. Campbell, MD
+
+** Dr. Campbell's Wholism to study a complex system
+Dr. Campbell was an early pioneer in WFPB research, and coined the name "whole-food plant-based".
+He is best known for his work in the [[#chinacornelloxford-project][China–Cornell–Oxford Project]].
+
+A Conversation with T. Colin Campbell.
+https://www.youtube.com/watch?v=EnW67LQzMMI\\
+A 26-minute interview with Dr. Campbell.
+
+The remainder of this section is about Dr. Campbell's approach to nutritional research.
+
+Whole foods have thousands of nutrients.
+There are thousands of interactions between nutrients.
+We don't even know how many interactions there are.\\
+https://nutritionfacts.org/video/food-synergy/
+
+"Wholism is the most effective methodology for nutrition research because the human body is a complex system."
+To understand what Dr. Campbell is saying, first familiarize yourself with these definitions:
+- https://en.wikipedia.org/wiki/Complex_system
+  A complex system is a system composed of many components which may interact with each other. 
+  Complex systems are systems whose behavior is intrinsically difficult to model due to the dependencies, competitions, relationships, or other types of interactions between their parts or between a given system and its environment.
+  Systems that are "complex" have distinct properties that arise from these relationships, such as nonlinearity, emergence, spontaneous order, adaptation, and feedback loops, among others. 
+- https://en.wikipedia.org/wiki/Reductionism
+  Methodological reductionism: the scientific attempt to provide explanation in terms of ever smaller entities.
+- https://en.wikipedia.org/wiki/Holism
+  Holism is the idea that systems (physical, biological, chemical) and their properties should be viewed as wholes, not just as a collection of parts.
+- https://en.wikipedia.org/wiki/Nutrition
+  Nutrition is the science that interprets the interaction of nutrients and other substances in food in relation to maintenance, growth, reproduction, health and disease of an organism.
+  In humans, an unhealthy diet can cause
+  - deficiency-related diseases such as blindness, anemia, scurvy, preterm birth, stillbirth and cretinism
+  - nutrient excess health-threatening conditions such as obesity and metabolic syndrome; and such common chronic systemic diseases as cardiovascular disease, diabetes, and osteoporosis.
+- Observational and interventional study design types; an overview\\
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4083571/
+  - *Observational studies*, also called epidemiological studies, are those where the investigator is not acting upon study participants, but instead observing natural relationships between factors and outcomes.
+  - *Interventional studies*, also called experimental studies, are those where the researcher intercedes as part of the study design.
+
+Reductionist research looks at nutrients in isolation — one vitamin at a time, one mineral, one fat.
+The complexity of nutrition ensures that our knowledge of nutrition will be incomplete for decades.
+
+We shouldn't be studying only isolated nutrients.
+We should be thinking about how things work together.
+It’s a very complex biological system.
+
+Wholism is the most effective methodology for nutrition research because the human body is a complex system.
+Epidemiology observational studies find health-food correlations.
+When possible, interventional studies corroborate the findings and demonstrate causation.
+We don't have to know all the reductionist details to show that WFPB is best.
+Unfortunately, the way science is funded, almost all nutritional studies continue with reductionist research.
+Be skeptical of claims about parts that ignore the wholes.
+
+https://nutritionstudies.org/scientific-reductionism-detracts-whole-food-plant-based-message/
+Reductionism focuses on parts rather than the whole.
+Reductionism is not the way that nutrition works—by definition.
+Examples where reductionist interpretation has led us astray:
+- dietary cholesterol and saturated fats commonly present in animal-based foods do not directly cause heart disease, although they are good indicators of disease risk.
+- Environmental carcinogens do not significantly increase human cancer risk because proper nutrition controls most of their effects.
+- Added plant oils are more likely to cause cancer and heart disease than animal fats like butter and lard because plant oils consumed outside of their whole food environment are likely to be proinflammatory and pro-oxidant.
+- Nutrient supplements do not prevent disease because when isolated from their whole food context, their biological properties may be substantially different or even opposite than expected.
+- Chemical carcinogens may act as anti-carcinogens when prior low levels of exposure are able to adapt the body and minimize the effects of later carcinogen exposure.
+- The calcium of cow’s milk prevents osteoporosis and makes strong bones and teeth, but a comparison of bone health statistics for different countries shows that increased consumption of calcium is associated with increased rates of osteoporosis.
+- The making of similar mythologies are now underway when we highlight the idea that blueberries and cruciferous vegetables prevent cancer when, in reality, a large number of similar plant-based foods are able to do the same thing. 
+
+All of these claims on consuming isolated chemicals and single foods are examples of reductionist reasoning.
+
+WFPB nutrition cannot be interpreted or adequately judged for its value through the lens of reductionism.
+It is time to recognize the science that demonstrates the health benefits of whole foods instead of their nutrient parts.
+It also is time [to recognize] that the underlying science of whole food, plant-based nutrition is more reliable, more sophisticated, and more promising for human health than traditional [reductionist] views of nutrition.
+
+** Dr. Jacobs food synergy to study a complex system
+searched pubmed: "food synergy" concept
+
+Dr. Campbell's "Wholism" and Dr. Jacobs "food synergy" are the same concept, although some of the words are different.
+Dr. Jacobs has written a few articles on food synergy. This is the best article Jacobs has written:
+- http://archive.wphna.org/wp-content/uploads/2015/10/2013-Research-Online-David-Jacobs-Linda-Tapsell-Food-synergy.pdf
+
+What Comes First: The Food or the Nutrient? Executive Summary of a Symposium, 2014
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3952626/\\
+Epidemiologic studies have identified dietary patterns that consistently predict future chronic disease.
+[Jacobs calls "reductionism" "nutrient focus" and calls "wholism" "food focus"]
+
+Food synergy: an operational concept for understanding nutrition, 2009
+https://academic.oup.com/ajcn/article/89/5/1543S/4596924\\
+We (8) have provided several examples that reported on food synergy.
+- grain example: in long-term follow-up, fiber from refined grain was not related to mortality, but the fiber in whole grain was
+- apple example: cancer cell proliferation was inhibited more by extracts of the whole apple with skin than by extracts of the apple flesh only.
+- tomato example: whole tomato consumption had a greater effect on human prostate tissue than did an equivalent amount of lycopene.
+- whole pomegranates had greater anti-cancer effects than did some of their individual constituents.
+- whole broccoli     had greater anti-cancer effects than did some of their individual constituents.
+
+* The finer points of WFPB
+** "Whole food" and "processed food" defined
+https://en.wikipedia.org/wiki/Whole_food\\
+Whole foods are plant foods that are unprocessed or minimally processed.
+Examples of whole foods include whole grains, tubers, legumes, fruits, vegetables.
+
+Extracting, refining, and isolating are words for the same process:
+- vegetable oil is oil that has been *extracted* from vegetables
+- vegetable oil is *refined* in that the non-oil parts of the vegetable have been removed
+- vegetable oil is an *isolate* because the oil is apart from the other parts of the vegetable
+
+The above terms can apply to any plant parts e.g.:
+- sugar is "extracted" from sugarcane
+- "refined" flour has bran and germ removed
+- pea-protein "isolate" is protein apart from other parts of the plant
+
+*Added oil* is extracted oil added to a diet.
+
+*Processed* food is refined food.\\
+*Minimally processed* food usually retains the nutritional value of the whole food.
+
+Methods of *minimal processing* include simple mechanical processes such as cutting, grinding or mixing:
+- grinding whole grain into whole flour
+- cutting vegetables in a blender to make a green smoothy
+Elements of the whole food remain bound together, although in smaller pieces.
+No part of the food is removed.
+
+Nut butters are minimally processed foods but are not whole foods.
+Grinding nuts ruptures the nut cells releasing oil, the oil is no longer bound to the nut cells and the oil floats to the top.
+The nut protein and nut oil are isolated.
+Stirring the nut and oil together does not make the nut whole again.
+Hydrogenating the nut oil makes it solid at room temperature, but that does not make the nut whole again.
+So whole nuts are healthier than nut butter.
+But nut butters are healthy nevertheless:
+- https://nutritionfacts.org/video/nuts-and-obesity-the-weight-of-evidence/\\
+  6:55 nuts and nut butters where associated with decreased health risks
+- https://nutritionfacts.org/video/testing-the-pistachio-principle/\\
+  Neither whole peanut nor peanut butter group gained weight.
+
+https://en.wikipedia.org/wiki/Refined_grains\\
+A refining process removes the bran and germ from grains.
+This is done to give grains a finer texture and improve their shelf life.
+But it also removes dietary fiber, iron, and many B vitamins.
+Additionally, thiamin, riboflavin, niacin, and iron are often added back into refined food.
+Some examples of refined grain products are white flour, de-germed cornmeal, white bread, and white rice.
+
+https://health.usnews.com/wellness/food/articles/2017-05-11/how-does-getting-nutrients-from-fortification-compare-to-whole-food\\
+When refined foods are fortified, fortified form of the vitamin or mineral is often different from how it’s found in nature.
+It is impossible to add back everything that is taken out, especially the phytochemicals.
+
+Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables.
+Juice is highly refined:
+- fibers and nutrients are removed
+- only water, sugar, and some plant traces remain
+
+Vegetable oils are fats extracted from seeds, or less often, from other parts of fruits.
+Oil is highly refined:
+- fibers and nutrients are removed
+- only oil and some plant traces remain
+
+https://en.wikipedia.org/wiki/Processed_meat\\
+*Processed meat* is any meat which has been modified in order either to improve its taste or to extend its shelf life.
+Methods of meat processing include salting, curing, fermentation, smoking, sodium nitrate and sodium nitride.
+Processed meat products include bacon, ham, sausages, salami, corned beef, beef jerky, canned meat and meat-based sauces.
+Meat processing includes all the processes that change fresh meat with the exception of simple mechanical processes such as cutting, grinding or mixing.
+
+** Why the "whole" in whole-food is important
+There are thousands of chemicals in food that scientists do not know anything about, and thousands of reactions in the body that scientists have not begun to untangle.
+Biological activities are highly integrated as foods are consumed, digested, absorbed and metabolized.
+We were not designed to eat refined foods:
+- added sugar
+- added oil
+- white flour
+These refined foods are missing fiber and countless other nutrients.
+Our bodies have not evolved to handle nutrients in isolation.
+Eating food modified from its natural composition has long-term health consequences.
+
+Our ancestors ate whole foods as they were found in nature.
+We evolved to eat whole foods.
+With a few exceptions, whole foods are more effective than supplements.
+As a rule, plant whole foods are healthier than isolated nutrients.
+The exception is vitamin B-12.
+
+Many people, when they learn about a nutrient want to eat it in isolation:
+- they learn about "vitamins" and then want to take multi-vitamin pills
+- they learn about "protein" and then want to eat protein isolate powder, fortified protein bars, or more meat
+- they learn about olive oil, and then want to put it on their salad
+That's often not healthy:
+- meat is known to be unhealthy
+- plant-protein extract is missing fiber and countless phytonutrients
+- refined oil is less healthy than the oil eaten in the whole foods
+
+A diet of whole-food plants provides all the fiber, vitamin, protein, and oil that humans need.
+Don’t worry too much about single nutrients, single foods, or single supplements.
+Simply eat from the right food groups (as written in the [[file:1_wfpb_basics.org::*WFPB%20guidelines][WFPB guidelines]]) and you will have a diet that is exceptionally rich in health-promoting factors.
+You can relax and enjoy your food without worrying about hundreds of nutritional details every day.
+
+** How much fiber?
+Every WFPB meal is loaded with fiber.
+
+https://nutritionfacts.org/video/how-many-bowel-movements-should-you-have-every-day/
+
+https://nutritionfacts.org/video/bowels-of-the-earth/
+
+https://nutritionfacts.org/video/gut-microbiome-strike-it-rich-with-whole-grains/\\
+Compared to people with high bacterial richness, people with low bacterial richness had:
+- more overall body fat
+- insulin resistance
+- high triglycerides
+- higher levels of inflammatory markers
+High bacterial richness is associated with:
+- increased fruit and vegetable intake
+- a variety of whole grains (eat more than just one whole grain)
+
+The U.S. Department of Agriculture recommends at least 14 grams of fiber for each 1,000 calories consumed.
+
+https://nutritionfacts.org/video/the-five-to-one-fiber-rule/
+For every 1 gram of dietary fiber, should have no more than 5 grams of carbohydrates.
+
+For some people, a large amount of insoluble fiber can result in loose stools.\\
+Foods high in insoluble fiber: beans, wheat, corn, some nuts.
+
+** Why no added oil
+People new to WFPB often object to the "no added oil" restriction.
+
+In the literature, *Fat* and *oil* can come from either animal or plant.
+In some contexts, fat comes from animal and oil comes from plant.
+
+WFPB eaters get their oil from whole foods.
+Vegetables have oil.  10% of Broccoli's total calories are oil.
+Nuts and avocados have higher oil content.
+
+Humans did not refine vegetable oil until the invention of farming.
+Vegetable oils are highly refined; they are not [[*Why the "whole" in whole-food is important][whole foods]].
+Added oil is absorbed faster than oil in whole foods.
+
+Added oil is empty calories.
+If you add oil, it will displace nutritious food.
+If added oil makes up 20% of your calories, then you are receiving 20% less fiber, protein, calcium, and hundreds of other nutrients.
+
+Oil is the most energy dense food.
+: A half pound of oil has 2,000 calories.
+: Nine pounds of Kale has 2,000 calories.
+Because oil is energy dense, it only takes a little oil to significantly decrease nutrient intake.
+
+There are 120 calories in a tablespoon of oil.
+For 2,000 calories/day:
+: T oil/120cal * 2,000cal/day 10% of diet = 1.66 Tablespoons oil/day
+: T oil/120cal * 2,000cal/day 20% of diet = 3.33 Tablespoons oil/day
+
+For 2,500 calories/day:
+: T oil/120cal * 2,500cal/day 10% of diet = 2.08 Tablespoons oil/day
+: T oil/120cal * 2,500cal/day 20% of diet = 4.17 Tablespoons oil/day
+
+Although Olive oil and Canola oil are not as bad as other fats, they are still unhealthy.
+
+All types of added oil increase atherosclerosis:
+- https://www.drmcdougall.com/misc/2007nl/aug/oils.htm > Do Vegetable Oils Really Prevent Heart Disease?\\
+  Serial angiograms of people’s heart arteries show that all three types of fat —saturated (animal) fat, monounsaturated (olive oil), and polyunsaturated (omega-3 and -6 oils)— were associated with significant increases in new atherosclerotic lesions over one year of study.
+  Only by decreasing the entire fat intake, including poly- and monounsaturated-oils, did the lesions stop growing.
+- The influence of diet on the appearance of new lesions in human coronary arteries. By Blankenhorn, JAMA 1990.
+  https://www.ncbi.nlm.nih.gov/pubmed/2407875
+
+All types of added oil increase cancer rates:
+- Dietary Fat and Cancer\\
+  https://www.youtube.com/watch?v=NsFJ8tYRziY
+
+*THE OILY SLIPPERY SLOPE* (a short tragic story)\\
+She started with a 100% WFPB diet.
+Then she added oil, which displaced plant proteins and vitamins.
+So she added meat and multi-vitamins to her diet.  That's so SAD.
+
+** How to add oil and sugar
+Eating WFPB is simple; no special high-protein foods required
+whole foods provide enough protein.
+
+Eating added oil and sugar (empty calories) displaces nutritious food.
+If you eat empty calories and no animal products, be careful about getting enough protein and do the math.
+
+https://epdf.tips/protein-and-amino-acid-requirements-in-human-nutrition-who-technical-report-seri.html\\
+p87 Table 3. Age related changes in the protein:energy ratio
+- For adults, safe protein ranges from 6% (for male heavy physical activity) to 12% (for female light physical activity).
+p88 Table 4. Age related changes in the protein and energy requirements
+- For adults, 0.66 g/kg/day [to be safe, many recommend 8g/kg/day]
+
+Physically active people need more calories.
+You can safely eat some empty calories if you are physically active or eat enough high-protein foods.
+
+Here are some high-protein foods (protein as percent of total calories):
+- Broccoli (20% $1.80/lb)
+- Pinto Beans (22% $1.50/lb)
+- Split Peas, Green (24% $1.20/lb)
+- Brown Lentils (27% $1.80/lb)
+- Soy Beans (36% $1.30/lb)
+- Mushrooms, White (36% $3/lb expensive protein because mostly water, but has phytonutrients not found in plants)
+- Tofu, Firm (40% $1.50/14oz)
+- spinach (51% eat leafy greens for their fiber and vitamins, they contain little protein or calories)
+- Nutritional Yeast (52% $11.00/lb)
+  
+sources:
+- https://renaissancehumans.com/high-protein-vegetables/
+- https://nutritiondata.self.com/
+- https://www.sprouts.com/ 2019 bulk prices
+- "Protein Requirements in Human Nutrition" by the World Health Organization\\
+  https://epdf.tips/protein-and-amino-acid-requirements-in-human-nutrition-who-technical-report-seri.html
+  - p87 Table 3. Age related changes in the protein:energy ratio
+  - For adults, safe protein ranges from 6% (for male heavy physical activity) to 12% (for female light physical activity).
+
+* Lifespan, healthspan and aging
+Lifespan is the length of time for which a person lives.\\
+Healthspan is the length of time in one's life during which an individual is in reasonably good health.
+
+Life span is often used because it is easy to measure.
+But WFPB improves quality of life in ways not captured by lifespan.
+For example, in the next section: acne, allergies, arthritis, cataracts, depression, gout, heartburn, osteoporosis, waistline, stroke.
+
+Ten Years of Life: Is it a matter of choice? 2001
+https://www.ncbi.nlm.nih.gov/pubmed/11434797\\
+Substantial gains in life expectancy would only be worthwhile if they were also accompanied by a longer period of good-quality life. Although our data cannot directly address quality of life, it was previously shown that the vegetarian Adventists took less medication and had fewer overnight hospital stays, surgical procedures, and x-ray examinations during the previous year. Vegetarians also had a reduced prevalence of several chronic diseases that may degrade the quality of life.
+
+Aging, health risks, and cumulative disability. N Engl J Med. 1998
+https://www.ncbi.nlm.nih.gov/pubmed/9535669\\
+Smoking, body-mass index, and exercise patterns in midlife and late adulthood are predictors of subsequent disability.
+Not only do persons with better health habits survive longer, but in such persons, disability is postponed and compressed into fewer years at the end of life.
+
+https://nutritionfacts.org/video/americans-are-living-longer-but-sicker-lives/
+
+https://nutritionfacts.org/video/why-do-we-age/
+
+https://nutritionfacts.org/video/telomeres-cap-it-all-off-with-diet/
+
+https://nutritionfacts.org/video/finger-pulse-longevity/
+
+https://nutritionfacts.org/video/slow-beating-heart-beans-vs-exercise/\\
+continuous increase in risk with increasing heart rate above 65 beats/minute
+
+https://nutritionfacts.org/video/caloric-restriction-vs-animal-protein-restriction/\\
+Lifespan extension associated with a reduction in animal protein.
+
+https://nutritionfacts.org/video/methionine-restriction-as-a-life-extension-strategy/\\
+Methionine causes aging and plant proteins have less methionine than animal proteins.
+
+https://nutritionfacts.org/video/slowing-the-growth-of-cancer-3/\\
+It takes between two and a hundred years for a single cancer cell to grow to a little tumor that we can see.
+[So start WFPB when you're young.]
+
+https://nutritionfacts.org/video/beauty-is-more-than-skin-deep/
+
+https://nutritionfacts.org/video/increased-lifespan-from-beans/
+
+https://en.wikipedia.org/wiki/Age_adjustment
+
+https://en.wikipedia.org/wiki/Global_Burden_of_Disease_Study
+
+* Look up what ails you
+The following links were found using search fields on https://nutritionfacts.org and https://nutritionstudies.org/.
+
+** search: acne
+https://nutritionfacts.org/video/saving-lives-by-treating-acne-with-diet/
+
+** search: allergies
+https://nutritionfacts.org/video/best-food-for-hay-fever-seasonal-allergies/
+- A daily teaspoon of nutritional yeast significantly decreased hay-fever severity.
+
+https://nutritionfacts.org/video/preventing-allergies-in-adulthood
+- Meat-eaters might have slightly more allergies than vegetarians.
+
+https://nutritionfacts.org/video/throw-household-products-off-the-scent/
+- Common household chemicals may exacerbate or induce allergies, asthma, and eczema. Avoid scented products.
+
+** search: arthritis
+https://nutritionfacts.org/video/turmeric-curcumin-and-osteoarthritis/
+- Things contributing to low-grade systemic inflammation and oxidative tissue stress and irritation.
+  - High consumption of pro-inflammatory foods such as meat, dairy, fat, and junk.
+  - Low consumption of anti-inflammatory plant foods such as whole grains, vegetables, fruits, beans, split peas, chickpeas, and lentils.
+- Places the immune system in an overactive state, a common denominator of conditions such as arthritis.
+- Experiment on patients with knee osteoarthritis: the curcumin group did as good or better than the ibuprofen group.
+
+https://nutritionfacts.org/topics/arthritis/
+- Consuming turmeric with soy may offer a double benefit for osteoarthritis sufferers.
+
+https://nutritionstudies.org/arthritis-joint-pain/
+- In cultures where people eat very small quantities of animal fat and animal protein, there is a much lower incidence of all kinds of arthritis.
+- At the TrueNorth Health Center, we see many people experience a decrease in their Osteoarthritis after changing their diets.
+- The improved diet helps reduce the inflammation in the joints.
+
+https://nutritionfacts.org/video/why-do-plant-based-diets-help-rheumatoid-arthritis/
+
+** search: cancer
+https://nutritionfacts.org/video/slowing-the-growth-of-cancer-3/
+- It takes between two and a hundred years for a single cancer cell to grow to a little tumor that we can see.
+- Prostate and breast cancers tend to be sensitive to growth-promoting steroid hormones.
+
+https://nutritionstudies.org/food-or-medicine-preventing-treating-breast-prostate-cancer/
+- A health-promoting, cancer-fighting WFPB diet should be implemented in all patients with cancer regardless of whether or not that patient chooses to undergo conventional treatment options.
+- There are no additional risks by doing so and only potential upsides in the form of reduced risks of several types of cancer.
+
+https://nutritionfacts.org/video/the-best-advice-on-diet-and-cancer/
+
+https://nutritionfacts.org/video/how-to-win-the-war-on-cancer/
+
+https://nutritionstudies.org/doctor-inspired-by-the-china-study-for-his-cancer-patients/
+
+https://nutritionfacts.org/video/benefits-of-nutritional-yeast-for-cancer/
+weak but promising evidence that beta glucan fiber reduces cancer, needs more research
+
+** search: cancer, breast
+https://nutritionfacts.org/video/fiber-vs-breast-cancer/
+
+https://nutritionfacts.org/video/flaxseeds-breast-cancer-survival-epidemiological-evidence/
+
+https://nutritionfacts.org/video/flaxseeds-breast-cancer-survival-clinical-evidence/
+
+https://nutritionfacts.org/video/overtreatment-of-stage-0-breast-cancer-dcis/
+
+https://nutritionfacts.org/video/can-flax-seeds-help-prevent-breast-cancer/
+
+https://nutritionfacts.org/video/which-dietary-factors-affect-breast-cancer-most/\\
+The most important dietary advice is:
+- be as lean as possible within the normal range of body weight
+- eat mostly foods of plant origin
+- limit alcoholic drinks
+
+https://nutritionfacts.org/topics/soy/\\
+https://nutritionfacts.org/video/how-to-block-breast-cancers-estrogen-producing-enzymes/
+- Soy food and soymilk consumption appear protective against breast cancer.
+
+https://nutritionfacts.org/video/relieving-yourself-of-excess-estrogen/
+
+https://nutritionfacts.org/video/breast-cancer-and-constipation/
+
+http://www.pursueahealthyyou.com/2013/10/the-business-of-breast-cancer-awareness.html
+- Nice map under the heading, "Breast Cancer Incidence (And Differing Dietary Habits) Around The World".
+
+https://nutritionfacts.org/video/antiperspirants-and-breast-cancer/
+- Applying antiperspirant to recently shaved skin increases risk of breast cancer.
+
+** search: cancer, colon
+https://nutritionfacts.org/video/should-we-all-get-colonoscopies-starting-at-age-50/
+
+https://nutritionfacts.org/video/solving-a-colon-cancer-mystery/
+- fiber and meat
+
+https://nutritionfacts.org/video/resistant-starch-colon-cancer/
+- resistant starch and meat
+
+https://nutritionfacts.org/video/getting-starch-to-take-the-path-of-most-resistance/
+- resistant starch and fiber
+
+https://nutritionfacts.org/video/anti-cancer-potential-of-sweet-potato-proteins/
+
+** search: cancer, prostate
+https://nutritionfacts.org/video/treating-advanced-prostate-cancer-with-diet-part-1/
+- Dr. Dean Ornish a 4-month long intervention.
+
+https://nutritionfacts.org/video/treating-advanced-prostate-cancer-with-diet-part-2/
+- UC San Diego 6-month long intervention.
+
+https://nutritionfacts.org/video/changing-mans-diet-prostate-cancer-diagnosis/
+
+https://nutritionfacts.org/video/prostate-cancer-survival-the-av-ratio/
+
+** search: cataracts
+https://nutritionfacts.org/video/preventing-cataracts-with-diet/
+
+** search: cholesterol
+https://nutritionfacts.org/video/how-fiber-lowers-cholesterol/
+
+https://nutritionfacts.org/video/optimal-cholesterol-level/
+
+https://nutritionfacts.org/video/trans-fat-saturated-fat-and-cholesterol-tolerable-upper-intake-of-zero/
+
+https://nutritionfacts.org/video/switching-from-beef-to-chicken-fish-may-not-lower-cholesterol/
+
+https://nutritionfacts.org/video/amla-vs-drugs-for-cholesterol-inflammation-and-blood-thinning/
+- Indian gooseberries (amla), 10 to 15% drop in total and LDL cholesterol, about the same as Zocor (Simvastatin)
+
+https://nutritionfacts.org/video/does-coffee-affect-cholesterol/
+- use a paper filter
+
+https://nutritionfacts.org/video/uprooting-the-leading-causes-of-death/
+- FDA mandated safety labeling for cholesterol-lowering statin drugs like Lipitor, Mevacor, Crestor, Zocor, and Vytorin, etc.
+- The FDA issued side-effect warnings regarding the increased risk of brain-related side effects such as memory loss, confusion, an increase in blood sugar levels and risk of new-onset diabetes.
+- One prominent cardiologist described the Faustian bargain: fewer heart attacks, but more diabetes.
+- Adverse effects of statins on energy levels and fatigue even at moderate doses, particularly for women.
+
+https://nutritionfacts.org/video/statin-cholesterol-drugs-and-invasive-breast-cancer/
+- Women taking statins for ten years or more had more than double the risk of breast cancer.
+- Plant-based diets have been shown to lower LDL cholesterol “by over 30%” within just a couple weeks, equivalent to most of the standard cholesterol-lowering statin drugs—without potential side effects, such as increased breast cancer risk.
+
+** search: common cold
+https://nutritionfacts.org/video/nutritional-yeast-to-prevent-the-common-cold/
+- A spoonful of nutritional yeast a day reduced the recurrence of infections with the common cold by 25%.
+
+** search: depression
+https://nutritionfacts.org/video/anti-inflammatory-diet-for-depression/
+- inflammation triggers depressive symptoms
+- antioxidants are anti-inflammatory
+- endotoxins in animal products can cause a burst of inflammation within hours of consumption
+- by eliminating animal products, and eating antioxidant rich diets, we may be able to prevent or treat depression
+
+** search: diabetes
+https://nutritionfacts.org/video/diabetes-reversal-is-it-the-calories-or-the-food/
+
+https://nutritionfacts.org/video/lifestyle-medicine-is-the-standard-of-care-for-prediabetes/
+
+https://nutritionfacts.org/video/how-not-to-die-from-diabetes/
+
+https://nutritionfacts.org/video/plant-based-diets-and-diabetes/
+- The 0% meat group had less diabetes than the 3% meat group.
+
+https://nutritionfacts.org/video/diabetics-should-take-their-pulses/
+
+https://nutritionfacts.org/video/if-white-rice-is-linked-to-diabetes-what-about-china/
+- The addition of animal protein makes the pancreas work twice as hard.
+
+https://nutritionfacts.org/video/benefits-of-a-macrobiotic-diet-for-diabetes/
+
+Three-part video series on the cause of type 2 diabetes:
+- https://nutritionfacts.org/video/what-causes-insulin-resistance/\\
+  animation of how fat causes insulin resistance
+- https://nutritionfacts.org/video/lipotoxicity-how-saturated-fat-raises-blood-sugar/\\
+  fat can come either from our diet or excess fat stores
+- https://nutritionfacts.org/video/the-spillover-effect-links-obesity-to-diabetes/\\
+  saturated fat causes insulin resistance
+
+https://nutritionfacts.org/video/turmeric-curcumin-for-prediabetes/
+- 2:00 - It’s important to recognize that prediabetes is a disease in itself, increasing the risk of death, cancer, heart disease, and vision loss.
+  So, it’s not enough to just prevent progression to full-blown diabetes;
+  prediabetes may be cured completely, with a healthy plant-based diet.
+- Pause at 2:10 and read Table 2 Hazards of prediabetes from the paper "Prediabetes: a must to recognise disease state."
+
+https://nutritionfacts.org/video/how-to-prevent-blood-sugar-and-triglyceride-spikes-after-meals/
+
+https://nutritionfacts.org/video/why-is-meat-a-risk-factor-for-diabetes/
+Higher risk associated with total meat consumption, and especially processed meat, particularly processed poultry.
+An 8% increase in risk for every 50 grams of daily meat consumption.
+The main source (around 95%) of persistent pollutant intake is through dietary intake of animal fat.
+
+https://nutritionfacts.org/video/effects-of-avocados-and-red-wine-on-meal-induced-inflammation/
+
+Type 2 Diabetics... you have another option | Mrs. Plant https://www.youtube.com/watch?v=yxma8GA27kk
+
+** search: food addiction
+https://nutritionfacts.org/video/are-fatty-foods-addictive/
+
+https://nutritionfacts.org/video/are-sugary-foods-addictive/
+
+Calorie restricted diets don't work because hungry people have intense food cravings, they will eat anything.
+With whole food, people eat all they want, never getting too hungry, so they can choose the healthy option, which is whole food.
+[[file:1_wfpb_basics.org::*An%20introduction%20to%20whole%20food][An introduction to whole food]] explains how eating the whole food burns calories naturally.
+
+People become addicted to concentrated oil & sugar when it is convenient.
+So keep that junk out of your home.
+
+Hungry people prefer to eat sweet oily foods.
+When a person is not hungry, they can calmly chose a healthier option.
+With WFPB you never have to go hungry, eat as often and as much as you like.
+There is no calorie counting.
+It is important to eat before you get too hungry so you can wisely chose whole-plant foods over refined foods.
+
+** search: gas
+https://nutritionfacts.org/questions/does-adding-baking-soda-to-soaking-beans-reduce-raffinose/
+Raffinose starch in beans turns to gas.
+Adding baking soda to the soak water of dried beans before cooking significantly decreases the content of the raffinose family of sugars.
+1/16 teaspoon baking soda per quart. [I tried this and it made no difference]
+
+https://www.quickanddirtytips.com/health-fitness/trends-fads/do-you-need-to-take-digestive-enzymes?utm_source=sciam&utm_campaign=sciam
+alpha-galactosidase
+
+https://www.quickanddirtytips.com/health-fitness/healthy-eating/got-gas?page=1
+Timing is important; you want to take the Beano (alpha-galactosidase) with your first bite of food.
+One pill per serving of beans.
+
+** search: gout
+https://nutritionfacts.org/video/preventing-gout-attacks-with-diet/
+- Limit alcohol, meat, and seafood.  Eat more plants.
+
+** search: heartburn
+https://nutritionfacts.org/video/diet-and-gerd-acid-reflux-heartburn/
+- High-fat meals increase incidence Gastro-esophageal reflux disease (GERD), WFPB meals decreases it.
+
+https://nutritionfacts.org/video/are-acid-blocking-drugs-safe/
+baking soda, Nexium, Prilosec
+
+** search: heart disease (atherosclerosis)
+https://nutritionfacts.org/video/eliminating-90-of-heart-disease-risk/
+
+https://nutritionfacts.org/video/our-number-one-killer-can-be-stopped/
+
+This special issue of a medical journal is completely dedicated to WFPB diets:\\
+Journal of Geriatric Cardiology (2017) TOC http://www.jgc301.com/ch/reader/issue_list.aspx?year_id=2017&quarter_id=5
+
+A way to reverse CAD? The Journal of Family Practice (2014) https://www.ncbi.nlm.nih.gov/pubmed/25198208\\
+*RESULTS:* Of the 198 patients with CVD, 177 (89%) were adherent.
+Major cardiac events judged to be recurrent disease totaled one stroke in the adherent cardiovascular participants—a recurrent event rate of .6%, significantly less than reported by other studies of plant-based nutrition therapy.
+Thirteen of 21 (62%) nonadherent participants experienced adverse events.
+
+baby aspirin
+https://nutritionfacts.org/video/plants-with-aspirin-aspirations/
+- Salicylic acid (the main active ingredient in aspirin) is ubiquitously present in fruits and vegetables.
+- Herbs and spices contain the highest concentrations.
+- Chili powder, paprika, turmeric have a lot, and cumin has the most.
+- Eating a teaspoon of cumin is like taking a baby aspirin.
+
+baby aspirin
+https://nutritionfacts.org/video/should-we-all-take-aspirin-to-prevent-cancer/
+- A recent meta-analysis estimated that just a single year of low-dose aspirin therapy will induce major gastrointestinal bleeding in one out of 833 people.
+- Risk of bleeding on aspirin increases steeply with age.
+- Salicylic acid (active ingredient in aspirin) is found throughout the plant kingdom.
+- Concentrations of salicylic acid seen in vegetarians have been shown to inhibit inflammatory COX enzyme in vitro.
+- Vegetarians appear to have a significantly lower risk of ulcers and cancer.
+- People who’ve had a heart attack should follow their physician’s advice, which probably includes taking aspirin every day.
+- Everyone else should eat ample servings of greens every day (not aspirin every day).
+
+** search: high blood pressure (hypertension)
+https://nutritionfacts.org/video/how-not-to-die-from-high-blood-pressure/
+- 140 over 90 is high
+- 120 over 80 is normal in US
+- 110 over 65 is normal with plant-based diet
+
+https://nutritionfacts.org/video/sodium-skeptics-try-to-shake-up-the-salt-debate/
+6:03 a 17% increase in cardiovascular disease events for every gram of sodium a day
+
+https://www.ncbi.nlm.nih.gov/books/NBK234935/
+In consideration of the wide variation of patterns of physical activity and climatic exposure, a safe minimum intake might be set at 500 mg [sodium chloride]/day.
+[that's less than a teaspoon of salt per week]
+
+https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/how-much-sodium-should-i-eat-per-day
+- The American Heart Association recommends no more than 2,300 milligrams (mg) sodium a day and moving toward an ideal limit of no more than 1,500 mg per day for most adults.
+- On average, Americans eat more than 3,400 mg of sodium each day.
+- More than 70 percent of the sodium Americans eat comes from packaged, prepared and restaurant foods.
+
+http://time.com/4746932/sodium-salt-fast-food/
+- interactive flip cards
+
+https://nutritionfacts.org/video/hibiscus-tea-vs-plant-based-diets-for-hypertension/
+
+https://www.pritikin.com/your-health/healthy-living/eating-right/salt-substitutes-safe.html
+
+** search: inflammation
+https://nutritionfacts.org/video/the-hispanic-paradox-why-do-latinos-live-longer/
+- Hispanics living in the United States tend to have less education, a higher poverty rate, and worse access to health care.
+- Yet Hispanics live the longest.  Because Hispanics eat more beans, fruits and vegetables.
+
+https://nutritionfacts.org/video/how-to-counter-the-inflammation-of-aging/
+- The dietary patterns associated with inflammation were almost all meat-based diet patterns.
+- Vegetable and fruit-based diet patterns tended to be inversely associated, meaning more plant-based, less inflammation.
+
+https://nutritionfacts.org/video/is-fiber-an-effective-anti-inflammatory/
+
+** search: kidney
+https://nutritionfacts.org/?s=kidndey found 139 results.
+
+** search: obese, overweight, waistline
+https://nutritionfacts.org/video/keep-your-waist-circumference-to-less-than-half-your-height/
+Waist-to-height ratio is a screening tool for the prediction of cardiovascular disease and diabetes.
+Stand up straight, breathe deep, exhale, let it all hang out, and measure your waist circumstance.
+That measurement should be half your height.
+
+https://nutritionfacts.org/video/waistline-slimming-food/
+
+https://nutritionfacts.org/video/waistline-expanding-food/
+
+https://nutritionfacts.org/video/fat-burning-via-arginine/
+
+https://nutritionfacts.org/video/fat-burning-via-flavonoids/
+
+https://nutritionfacts.org/video/fawning-over-flora/
+
+https://nutritionstudies.org/morbid-obesity-solution-long-term-plant-based-case-study/
+
+Jeff Novick’s #1 weight gain culprit!
+https://www.youtube.com/watch?v=-KdAsFnR8TY\\
+oil
+
+** search: osteoporosis
+Ask your doctor about increasing calcium intake via whole food rather than calcium tablets.
+Dark-green leafy vegetables are rich in calcium.
+
+https://nutritionfacts.org/video/are-calcium-supplements-safe/
+
+https://nutritionfacts.org/video/are-calcium-supplements-effective/
+
+Greater Intake of Fruit and Vegetables Is Associated with Greater Bone Mineral Density and Lower Osteoporosis Risk in Middle-Aged and Elderly Adults 2017
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5207626/
+
+https://nutritionfacts.org/video/phytates-for-the-prevention-of-osteoporosis/
+- Phytate is a naturally-occurring compound found in all plant seeds (botanically, that means all beans, grains, nuts, and seeds).
+- Those that consumed more high-phytate foods had stronger bones.
+
+https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/calcium-and-milk/calcium-full-story/
+
+https://nutritionfacts.org/video/who-shouldnt-eat-soy/ 2016
+- High consumption of soy products is associated with increased bone mass.
+- The soy milk group increased bone density in their spine.
+- The study clearly shows that the soy phytoestrogen prevents bone loss, and enhances new bone formation, in turn producing a net gain of bone mass.
+- Soy food consumption associated with lower fracture risk.
+
+https://nutritionfacts.org/video/how-to-convert-into-an-equol-producer/ 2018
+- Certain gut bacteria can supercharge the benefits of soy foods, resulting in even more bone protection, better control of menopausal symptoms, and lower prostate cancer risk.
+- There’s two types of people in the world: “equol producers” and “equol nonproducers”—depending on their gut flora.
+- If you split the women into equol producers and nonproducers, soy did work in non-equol producers, but seemed to work even better in the women whose gut bacteria is able to take the soy to the next level.
+- Maybe we should look into improving the intestinal environment to enable equol production.
+- Only a minority “of the Western adult population” is able to produce equol.
+- Vegetarians have among the highest equol production rates ever recorded.
+
+** search: stroke
+https://nutritionfacts.org/video/preventing-strokes-with-diet/
+
+https://nutritionfacts.org/video/how-to-prevent-a-stroke/
+
+https://nutritionfacts.org/video/best-foods-to-reduce-stroke-risk/

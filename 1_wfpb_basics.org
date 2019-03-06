@@ -1,0 +1,277 @@
+Copyright © 2019 by Wolfram Volpi, All rights reserved.\\
+This page is redirected from https://tiny.cc/wfpb-intro
+
+* Table of Contents                                           :TOC_3:
+- [[#introductions-to-a-whole-food-plant-based-wfpb-diet][Introductions to a Whole-Food Plant-Based (WFPB) Diet]]
+- [[#maturity-of-the-wfpb-movement][Maturity of the WFPB movement]]
+  - [[#research-scientists][Research scientists]]
+  - [[#institutions][Institutions]]
+    - [[#american-medical-association][American Medical Association]]
+    - [[#american-college-of-cardiology][American College of Cardiology]]
+    - [[#california-healthcare-facilities-and-prisons][California healthcare facilities and prisons]]
+    - [[#kaiser-permanente][Kaiser Permanente]]
+  - [[#wfpb-certificates][WFPB certificates]]
+- [[#an-introduction-to-whole-food][An introduction to whole food]]
+- [[#wfpb-guidelines][WFPB guidelines]]
+- [[#standard-american-diet-sad][Standard American Diet (SAD)]]
+- [[#getting-started-with-a-wfpb-trial][Getting started with a WFPB trial]]
+- [[#more-wfpb-resources][More WFPB resources]]
+
+* Introductions to a Whole-Food Plant-Based (WFPB) Diet
+Here is a list of introductions to the WFPB diet.
+
+An Introduction to a Whole-Food Plant-Based Diet
+https://youtu.be/u-u4YnfcTf0\\
+Dr. Anthony Lim presents on a whole, plant-based diet at the TrueNorth Health Center.
+The presentation is 55 minutes, followed by an informative Q&A of 20 minutes.
+
+https://www.drmcdougall.com/wp/wp-content/uploads/Dr-McDougalls-Color-Picture-Book1.pdf\\
+An illustrated introduction followed by pictures of a WFPB diet.
+
+"Forks Over Knives" is a 2011 documentary film.
+This 96-minute documentary of how research scientists figured out the healthiest diet for humans.
+- https://www.forksoverknives.com/synopsis/
+- https://en.wikipedia.org/wiki/Forks_Over_Knives
+
+https://opmed.doximity.com/a-medical-case-for-a-whole-food-plant-based-diet-c91580875463\\
+A WFPB introduction written by a doctor, for doctors (11-minute read).
+
+How Not to Die - Michael Greger, M.D.
+https://www.youtube.com/watch?v=aSgNkhgVtks\\
+Uprooting the Leading Causes of Death, March 12, 2016 (83-minute video).
+
+Combating Disabling Diseases with Food.
+https://nutritionfacts.org/video/from-table-to-able/\\
+Dr. Greger recorded live at the University of Pittsburgh on July 5, 2014 (54-minute video).
+Dr. Greger shows screen shots of the peer-review literature as he reads from it:
+- 00:30 heart disease
+- 06:30 low-back pain
+- 09:10 stroke
+- 11:59 diabetes
+- 18:28 Alzheimer's
+- 26:25 cancer
+- 39:29 heart disease - observational study
+- 40:40 heart disease - interventional study
+- 41:38 under WFPB, the body can heal it's self
+- 44:20 WFPB is the only diet proven to revers heart disease
+- 45:14 doctors believe that most patients won't change their diet
+- 47:41 pharmaceutical and food industry tactics
+- 50:36 Kaiser Permanente promotes WFPB
+
+Preventing & Treating the Most Dreaded Diseases with Diet
+ (cancer, heart disease, arthritis, stroke, high blood pressure, diabetes, Alzheimer's, ALS).
+https://nutritionfacts.org/video/food-as-medicine/\\
+Dr. Greger recorded live at the University of Pittsburgh on July 11, 2015 (75-minute fast-paced video).
+
+"How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease" by Dr. Greger
+https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115 > Look inside\\
+This is the best book on the WFPB diet.  Here are six interesting pages that you can read for free on Amazon:
+- Preface (pages ix to xiii, Why doctors oversell drugs and under value nutrition)
+- search for the section titled "The Actual Benefit of Diet Versus Drugs" (pages p244 to 245)
+
+* Maturity of the WFPB movement
+** Research scientists
+Hundreds of research scientists have contributed to the WFPB movement.
+The following are the most influential research scientists in WFPB.
+All of them have authored multiple research papers found on [[https://www.ncbi.nlm.nih.gov/pubmed][PubMed]]:
+- Dr. T. Colin Campbell PhD is professor of nutritional biochemistry at Cornell.\\
+  Website: [[https://nutritionstudies.org/][T. Colin Campbell Center for Nutrition Studies]]
+- Dr. Dean Ornish M.D. is a Clinical Professor of Medicine at the University of California, San Francisco.\\
+  Website: [[https://www.ornish.com/][Ornish Lifestyle Medicine]]
+- Dr. Caldwell Esselstyn M.D. used the WFPB diet to almost completely reverse coronary heart disease.\\
+  Website: [[http://www.dresselstyn.com/site/][Dr. Esselstyn's Prevent & Reverse Heart Disease Program]]
+- Dr. Micheal Greger, M.D. wrote the book [[https://nutritionfacts.org/video/book-trailer-for-how-not-to-die/][How Not To Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease]].\\
+  Website: [[https://www.nutritionfacts.org/][NutritionFacts.org | The Latest in Nutrition Related Research]]
+
+** Institutions
+From the Journal of Nutritional Biology, "Nutritional Renaissance and Public Health Policy" by Dr. Campbell, 2017 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5701757/ > Influence of Dietary Choice on Nutrient Function\\
+During 2016 and early 2017, an unusually large number of research publications are focused on dietary patterns, which have been creating a consensus that meat and other animal based foods increase while whole plant-based foods decrease risk for a broad variety of chronic disease outcomes, including overall cancer occurrence [67], cancer survivorship [68], type 2 diabetes [69], bone mineral density [70, 71], lung function [72], age-related macular degeneration [73], cardio-metabolic and endocrine biomarkers [74], hip fracture [75], offspring adiposity [76], mental depression [77] and diverticulitis [78], among many others.
+In brief, this evidence on food patterns shows an unusual breadth of outcomes consistently associated with higher disease risks for animal-based foods and/or lower disease risks for plant-based foods.
+
+There is now enough consensus that institutions are starting to offer WFPB.
+In June 2017, the American Medical Association passed a resolution that calls on U.S. hospitals to provide plant-based meals.
+
+*** American Medical Association
+Health Policies, Healthy Food Options in Hospitals H-150.949\\
+https://policysearch.ama-assn.org/policyfinder/detail/Healthy%20Food%20Options%20in%20Hospitals%20H-150.949?uri=%2FAMADoc%2FHOD.xml-0-627.xml
+1. Our AMA encourages healthy food options be available, at reasonable prices and easily accessible, on hospital premises.
+2. Our AMA hereby calls on US hospitals to improve the health of patients, staff, and visitors by:
+  - providing a variety of healthy food, including plant-based meals, and meals that are low in fat, sodium, and added sugars
+  - eliminating processed meats from menus
+
+*** American College of Cardiology
+Planting a Seed: Heart-Healthy Food Recommendations for Hospitals\\
+https://www.acc.org/membership/sections-and-councils/prevention-of-cardiovascular-disease-section/about-us/section-sub-groups/features/hospital-food-program
+1. The menu will include a plant-based main dish that is low in fat, sodium, and added sugars.
+2. For lunches and dinners, at least 3 combined servings of vegetables and/or fruits will be included per meal (eg, two vegetables and a fruit).
+3. Trans fats will not be used.
+4. Processed meats will not be offered. "Processed meats" include bacon, sausage, ham, hot dogs, and deli meats. 
+5. Grain products will be predominantly whole grains.
+6. Dessert will emphasize fruits.
+7. For a "Mediterranean" variant, olive oil may be added. 
+
+*** California healthcare facilities and prisons
+In 2018, California Gov. Jerry Brown signed a bill into law mandating all healthcare facilities and prisons statewide make plant-based meal options available to patients at every meal.
+
+*** Kaiser Permanente
+https://nutritionfacts.org/video/what-diet-should-physicians-recommend/
+Kaiser Permanente is the largest managed-care organization in the United States, which covers about 9,000,000 people with about 15,000 physicians.
+
+In 2013, a “Nutritional Update for Physicians” was published in the official journal of Kaiser Permanente.\\
+From http://www.thepermanentejournal.org/issues/2013/spring/5117-nutrition.html:
+- “Healthy eating may be best achieved with a plant-based diet, which we define as a regimen that encourages whole, plant-based foods and discourages meat, dairy products, and eggs as well as all refined and processed foods.”
+- “Too often, physicians ignore the potential benefits of good nutrition and quickly prescribe medications instead of giving patients a chance to correct their disease through healthy eating and active living. Physicians should therefore consider recommending a plant-based diet to all their patients, especially those with high blood pressure, diabetes, cardiovascular disease, or obesity.”
+
+Kaiser Permanente publishes patient education materials to help make whole-food plant-based diets the “new normal” for patients and physicians:
+https://share.kaiserpermanente.org/wp-content/uploads/2015/10/The-Plant-Based-Diet-booklet.pdf
+
+** WFPB certificates
+The CHIP health program teaches WFPB.  And their studies measured how effective WFPB is:
+- https://nutritionfacts.org/video/what-is-the-optimal-diet/
+- https://nutritionfacts.org/video/The-Weight-Loss-Program-That-Got-Better-with-Time/
+- https://nutritionfacts.org/video/chip-the-complete-health-improvement-program/
+- https://nutritionfacts.org/video/a-workplace-wellness-program-that-works/
+- https://www.chiphealth.com/About-CHIP/about-chip/
+- https://www.chiphealth.com/Community-CHIP/Training-Workshop/
+
+Plant-Based Nutrition Certificates:
+- https://nutritionstudies.org/courses/plant-based-nutrition/
+- https://nutritionstudies.org/courses/continuing-education/
+- https://www.drmcdougall.com/health/programs/starch-solution-certification-course/
+- https://drpampopper.com/instructors/
+
+There are now hundreds of WFPB doctors, some featured in https://nutriciously.com/vegan-doctors/
+
+* An introduction to whole food
+A whole-food plant-based (WFPB) diet is simple.
+Plant whole-foods provide all the fiber, vitamins, minerals, protein, and oil that humans need.
+
+So what, exactly, is the difference between "refined food" and "whole food"?
+Refined foods have parts of the food removed.
+Whole foods have no part of the food removed.
+
+In this section "whole food" and "refined food" refer to foods of plant origin.
+
+With refined foods:
+- calories are quickly absorbed into the body
+- the body burns some of those calories
+- surplus calories are stored in fat cells
+- when the body need more calories, the person feels hungry and fat cells release calories
+
+With whole foods:
+- calories are bound to fiber, it takes time to break that bond, and calories are slowly absorbed into the body
+- the body has more time to burn those calories
+- fewer calories are stored in fat cells
+- there is no hungry time between meals
+
+Grain example:
+- White flour is wheat grain with fiber and some nutrients removed.
+- In whole-wheat flour, starch is bound to fiber.
+- Whole-wheat flour is healthier because starch is absorbed more slowly.
+
+Fruit example:
+- Juice is water and sugar extracted from the plant. Fiber and some nutrients are left behind.
+- In whole fruits, the sugar is bound to fiber.
+- Whole fruits are healthier because sugar is absorbed more slowly.
+
+Vegetable example:
+- Vegetable oil is extracted from the plant. Fiber and some nutrients are left behind.
+- In whole vegetables, the oil is bound to fiber.
+- Whole vegetables are healthier because oil is absorbed more slowly.
+
+The preceding examples highlighted only calories.
+But there are hundreds or nutrients with thousands of interactions.
+Many nutrients are more effective in their whole natural state, compared to the same nutrient in isolation.
+That's unlikely to be a coincidence.
+
+So here is the theory:\\
+Our ancestors evolved to eat whole foods as they were found in nature.
+Anything else is sub-optimal for humans.
+
+Whole foods from plants provide the optimal amount of nutrients for humans.
+
+Nathaniel Dominy PhD. and the True Human Diet\\
+https://www.youtube.com/watch?v=h0PF5R0ywp4
+
+https://nutritionfacts.org/video/whats-the-natural-human-diet/
+
+* WFPB guidelines
+A WFPB diet is centered on whole, unrefined, or minimally refined plants.
+There is no calorie counting; eat as much WFPB food as you want.
+A diet can include up to 5% animal products and still be considered WFPB.
+
+WFPB guidelines (they are approximately the same):
+- https://www.forksoverknives.com/what-to-eat/
+- https://nutritionstudies.org/whole-food-plant-based-diet-guide/ > Food Guide\\
+- https://www.ornish.com/proven-program/nutrition/
+- https://nutritionfacts.org/video/dr-gregers-daily-dozen-checklist-2/
+  - https://nutritionfacts.org/app/uploads/2018/03/imperial.png
+  - https://nutritionfacts.org/app/uploads/2018/03/metric.png
+
+* Standard American Diet (SAD)
+https://en.wikipedia.org/wiki/Western_pattern_diet
+The Western pattern diet (WPD) or standard American diet (SAD) is a modern dietary pattern that is generally characterized by high intakes of red meat, processed meat, pre-packaged foods, butter, fried foods, high-fat dairy products, eggs, refined grains, potatoes, corn (and High-fructose corn syrup) and high-sugar drinks.
+The modern standard American diet was brought about by fundamental lifestyle changes following the Neolithic Revolution, and, later, the Industrial Revolution.
+
+Based on epidemiological studies, compared to a healthy diet, the Western pattern diet is positively correlated with an elevated incidence of obesity, death from heart disease, cancer (especially colon cancer), and other "Western pattern diet"-related diseases.
+There is an evolutionary mismatch between the ancient physiology of humans and a Western pattern diet; this underlies diseases of civilization, which include Type II diabetes, epithelial cell cancers, autoimmune disease, osteoporosis, hypertension, coronary artery disease, and obesity.
+There is also a correlation between a Western pattern diet and an increase in inflammatory diseases, which is particularly evident in relation to fiber and fat-content.
+
+https://www.cdc.gov/chronicdisease/about/multiple-chronic.htm\\
+In 2014, approximately 71% of the total health care spending in the United States was associated with care for the Americans with more than one chronic condition.
+People with multiple chronic conditions are at greater risk of poor day-to-day functioning.
+
+Multiple Chronic Conditions in the United States (2014 data)\\
+https://www.rand.org/content/dam/rand/pubs/tools/TL200/TL221/RAND_TL221.pdf > page 12
+- 18% of 18-44 year olds have multiple-chronic conditions.
+- 50% of 45-64 year olds have multiple-chronic conditions.
+- 81% of over 65 year olds have multiple-conditions.
+
+This epidemic of chronic conditions is not a normal part of aging.
+
+https://nutritionfacts.org/topics/standard-american-diet/\\
+According to U.S. Department of Agriculture estimates:
+- 32% of U.S. calories come from animal foods
+- 57% from processed plant foods
+- 11% from whole grains, beans, fruits, vegetables, and nuts (WFPB)
+
+The first two bullets (32% animal + 57% processed plant = 89%) cause the most common chronic diseases.
+That's right, 89% of SAD causes chronic diseases.
+Eliminating the unhealthy 89% from SAD would leave you with a WFPB diet (whole grains, beans, fruits, vegetables, and nuts).
+Eating a WFPB diet gives your SAD body a chance to heal its self.
+
+Is the WFPB diet extreme? It depends on what you're accustomed to.
+
+From the perspective of an American:
+- SAD is a normal diet
+- chronic conditions in old age are normal
+- WFPB prevents or reverses chronic diseases
+- but the WFPB diet seems extreme
+
+From the perspective of a rural central African:
+- WFPB is a normal diet
+- an absence of chronic conditions is normal
+- SAD causes chronic disease
+- therefore SAD is extreme
+
+* Getting started with a WFPB trial
+This is a simple whole-food trial for people new to the WFPB diet:
+- eat WFPB for breakfast
+- eat your usual diet for lunch and dinner
+Eating 1/3 whole foods has 1/3 of the health benefits.
+
+A simple breakfast is oatmeal with nuts and fruit on top:
+- rolled oats (old fashioned, not quick or instant)
+- unsalted nuts (e.g. walnuts, almonds)
+- fruit (e.g. sliced bananas, grapes, fresh or frozen berries)
+- unsweetened plant milk (e.g. soy milk or almond milk)
+
+No need to measure ingredients, cook the oats, or count calories.
+WFPB is an all-you-can eat diet; eat as much as you want.
+If you are feeling cold, microwaving the bowl of oats and plant milk can warm you up.
+
+* More WFPB resources
+- [[./2_wfpb_implementation.org]] - my practical tips on preparing WFPB diet.
+- [[./3_wfpb_advanced.org]] - my notes on WFPB science and nutrition.
+- [[./nutrition_confusion.org]] - why the public is confused about nutrition.
+- Many more WFPB resources are found by searching the Internet for "whole-food plant-based".

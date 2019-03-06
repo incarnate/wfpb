@@ -1,0 +1,96 @@
+* Why the public is confused about nutrition
+These short videos and articles add up to a 3-hour documentary.
+
+** Toxic politics
+- https://nutritionfacts.org/video/how-the-lead-paint-industry-got-away-with-it/
+- https://nutritionfacts.org/video/how-the-leaded-gas-industry-got-away-with-it/
+- https://nutritionfacts.org/video/american-medical-association-complicity-big-tobacco/
+
+** Food politics
+- https://nutritionfacts.org/video/the-mcgovern-report/
+- https://nutritionfacts.org/video/big-food-using-the-tobacco-industry-playbook/
+- https://nutritionfacts.org/video/big-sugar-takes-on-the-world-health-organization/
+
+** Misinformation
+Misinformation from the food industry
+- https://nutritionfacts.org/video/who-determines-if-food-additives-are-safe/
+- https://nutritionfacts.org/video/the-food-industry-wants-the-public-confused-about-nutrition/
+- https://nutritionfacts.org/video/is-cheese-really-bad-for-you/
+- https://nutritionfacts.org/video/the-saturated-fat-studies-buttering-up-the-public/
+- https://nutritionfacts.org/video/the-saturated-fat-studies-set-up-to-fail/
+- The Food Industry's Skewed Science https://www.facebook.com/NealBarnardMD/videos/1488744657871296/
+- https://integritydietitians.org/practice-area/conflict-free-ceus/
+- https://integritydietitians.org/practice-area/learn-the-issues/
+- False advertisement not needed.  These ads make no health claims, yet give the impression that juice is healthy:
+  - https://www.rookiemoms.com/flashback-friday-7up-for-babies/
+  - https://www.google.com/search?q=juice+advertisement&tbm=isch
+
+Misinformation from the popular press
+- https://nutritionfacts.org/video/the-protein-combining-myth/
+- https://nutritionfacts.org/video/spin-doctors-how-the-media-reports-on-medicine/
+- http://io9.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800
+- http://atkinsexposed.org/The_Diet_Fad_of_the_21st_Century.htm
+- https://nutritionfacts.org/video/are-lectins-in-food-good-or-bad-for-you/ > first minute
+- https://nutritionfacts.org/video/is-electromagnetic-hypersensitivity-real/
+- The popularity of coconut oil is an example of most people not reading the peer-review literature:
+  - Pamela Popper on Coconut Oil https://www.youtube.com/watch?v=6mmYmjE5GNI
+  - https://nutritionfacts.org/video/what-about-coconuts-coconut-milk-and-coconut-oil-mcts/
+  - https://nutritionstudies.org/coconut-oil-healthy-hazardous/
+  - https://nutritionfacts.org/video/coconut-oil-and-abdominal-fat/
+
+Misinformation from doctors - fad diets
+- http://atkinsexposed.org/Atkins_Nightmare_Diet.htm
+- http://atkinsexposed.org/The_South_Beach_Diet_All_Wet.htm
+- https://nutritionfacts.org/video/dr-gundrys-the-plant-paradox-is-wrong/
+
+Retracted misinformation
+- https://nutritionfacts.org/video/the-great-protein-fiasco/
+- https://en.wikipedia.org/wiki/Center_for_Science_in_the_Public_Interest#Trans_fats\\
+  https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
+
+** Statistic myths
+- https://nutritionfacts.org/video/omega-3s-and-the-eskimo-fish-tale/\\
+  That Eskimos have good health is a myth.  They have poor health and their diet is 98% animal products.
+  https://www.forksoverknives.com/extreme-nutrition-the-diet-of-eskimos
+- https://nutritionfacts.org/video/evidence-based-medicine-or-evidence-biased/\\
+  Small unblinded study v.s. large blinded study.
+
+** Conflict of interest
+- https://nutritionfacts.org/video/disclosing-conflicts-interest-medical-research/
+- https://nutritionfacts.org/video/academy-of-nutrition-and-dietetics-conflicts-of-interest/
+- Dr Pam Popper: Interesting Responses to Forks Over Knives https://www.youtube.com/watch?v=VP15Z4PANJw\\
+  1:29 Alberta Health Services Canada sent advisory to its dietitians.  Shows influenced of food-industry sponsors.
+- https://nutritionfacts.org/video/find-out-if-your-doctor-takes-drug-company-money/\\
+  Look up your doctor's financial ties at https://openpaymentsdata.cms.gov/search/physicians/by-name-and-location
+  or https://projects.propublica.org/docdollars/
+- https://en.wikipedia.org/wiki/Academy_of_Nutrition_and_Dietetics#Criticism_of_partnerships_with_food_companies
+- https://nutritionfacts.org/video/should-we-all-get-colonoscopies-starting-at-age-50/\\
+  Doctors get what are essentially financial kickbacks for procedure referrals.
+
+** Whole plant foods are not as profitable
+- https://nutritionfacts.org/video/plants-as-intellectual-property-patently-wrong/
+- https://nutritionfacts.org/video/why-is-nutrition-so-commercialized/
+- https://nutritionfacts.org/video/food-synergy/
+- https://nutritionfacts.org/video/industry-response-to-plants-not-pills/
+
+** Doctor's advice
+- https://nutritionfacts.org/video/breast-cancer-and-the-5-year-survival-rate-myth/\\
+  Statistically illiterate physicians are doomed to rely on their statistically illiterate conclusions, or on industry representatives and their information.
+- https://nutritionfacts.org/video/how-did-doctors-not-know-about-the-risks-of-hormone-therapy/
+- https://nutritionfacts.org/video/why-mammograms-dont-appear-to-save-lives/
+- https://nutritionfacts.org/video/why-patients-arent-informed-about-mammograms/
+
+** Nutrition in medical education
+- https://nutritionfacts.org/video/physicians-may-be-missing-their-most-important-tool/
+- https://nutritionfacts.org/video/lifestyle-medicine-treating-the-causes-of-disease/
+- https://nutritionfacts.org/video/the-tomato-effect/
+- https://nutritionstudies.org/frustrations-of-being-a-plant-based-cardiologist/
+- https://nutritionstudies.org/doctor-with-ms-makes-film-on-collapse-of-us-healthcare/
+- What I Wish I Was Taught In Medical School
+  https://www.youtube.com/watch?v=oDplrx6rG50
+- Nutrition Counseling in Clinical Practice, How Clinicians Can Do Better
+  https://jamanetwork.com/journals/jama/article-abstract/2653762
+- https://nutritionstudies.org/dr-t-colin-campbell-responds-to-reports-on-cornell-scientist-brian-wansink/\\
+  Nutrition is the most productive of all medical specialties, able to create more health than all the medical specialties combined.
+  Yet nutrition as a science is not one of the 130 or so medical specialties!
+  Nutrition is not a component of the standard of medical care and primary care practitioners are not able to obtain adequate compensation should they be qualified to use this information in their practices.
